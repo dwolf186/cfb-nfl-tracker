@@ -80,7 +80,10 @@ _WIKI_SEASON_URL = (
 )
 
 
-_WIKI_NAME_CLEAN = re.compile(r"\s*\((?:\d+|no\.\s*\d+|tied?)\)\s*$", re.IGNORECASE)
+_WIKI_NAME_CLEAN = re.compile(
+    r"\s*\((?:\d+[-\u2013\u2014]\d+|\d+|no\.\s*\d+|tied?)\)\s*$",
+    re.IGNORECASE,
+)
 
 
 def _clean_wiki_name(s: str) -> str:
