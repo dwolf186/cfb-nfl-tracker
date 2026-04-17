@@ -249,6 +249,8 @@ def build(
             "nfl_players": len(unique_players),
             "pro_bowls": sum(v[1] for v in unique_players.values()),
             "all_pros": sum(v[2] for v in unique_players.values()),
+            "pro_bowl_players": sum(1 for v in unique_players.values() if v[1] > 0),
+            "all_pro_players": sum(1 for v in unique_players.values() if v[2] > 0),
             "player_list": "|".join(names),
         })
 
@@ -267,6 +269,8 @@ def build(
                     "nfl_players": 0,
                     "pro_bowls": 0,
                     "all_pros": 0,
+                    "pro_bowl_players": 0,
+                    "all_pro_players": 0,
                     "player_list": "",
                 })
 
@@ -303,17 +307,23 @@ def _write_web_json(out: pd.DataFrame, players: pd.DataFrame, ap_polls: dict[int
             "nfl_players_total": 0,
             "pro_bowls_total": 0,
             "all_pros_total": 0,
+            "pro_bowl_players_total": 0,
+            "all_pro_players_total": 0,
             "years": {},
         })
         rec["top25_seasons"] += 1 if row.ap_rank is not None else 0
         rec["nfl_players_total"] += int(row.nfl_players)
         rec["pro_bowls_total"] += int(row.pro_bowls)
         rec["all_pros_total"] += int(row.all_pros)
+        rec["pro_bowl_players_total"] += int(row.pro_bowl_players)
+        rec["all_pro_players_total"] += int(row.all_pro_players)
         rec["years"][str(int(row.cfb_season))] = {
             "ap_rank": int(row.ap_rank) if row.ap_rank is not None and not pd.isna(row.ap_rank) else None,
             "nfl_players": int(row.nfl_players),
             "pro_bowls": int(row.pro_bowls),
             "all_pros": int(row.all_pros),
+            "pro_bowl_players": int(row.pro_bowl_players),
+            "all_pro_players": int(row.all_pro_players),
         }
     leaderboard_list = sorted(leaderboard.values(), key=lambda r: (-r["nfl_players_total"], r["program"]))
     (WEB_DATA_DIR / "leaderboard.json").write_text(
@@ -329,6 +339,8 @@ def _write_web_json(out: pd.DataFrame, players: pd.DataFrame, ap_polls: dict[int
             "nfl_players": int(row.nfl_players),
             "pro_bowls": int(row.pro_bowls),
             "all_pros": int(row.all_pros),
+            "pro_bowl_players": int(row.pro_bowl_players),
+            "all_pro_players": int(row.all_pro_players),
             "player_list": row.player_list.split("|") if row.player_list else [],
         })
     for year_str in by_year:
@@ -366,15 +378,18 @@ def _write_web_json(out: pd.DataFrame, players: pd.DataFrame, ap_polls: dict[int
             if n == college:
                 rank = r
                 break
+        unique_gids = set(gids)
         rec["years"][str(season)] = {
             "ap_rank": rank,
-            "nfl_players": len(set(gids)),
+            "nfl_players": len(unique_gids),
+            "pro_bowl_players": sum(1 for g in unique_gids if probowls_by_gid.get(g, 0) > 0),
+            "all_pro_players": sum(1 for g in unique_gids if allpro_by_gid.get(g, 0) > 0),
             "players": sorted(
                 ({
                     "name": name_by_gid.get(g, ""),
                     "pro_bowls": probowls_by_gid.get(g, 0),
                     "all_pros": allpro_by_gid.get(g, 0),
-                } for g in set(gids)),
+                } for g in unique_gids),
                 key=lambda p: (-p["pro_bowls"], p["name"]),
             ),
         }
@@ -386,6 +401,8 @@ def _write_web_json(out: pd.DataFrame, players: pd.DataFrame, ap_polls: dict[int
             rec["years"][year_key] = {
                 "ap_rank": int(row.ap_rank) if row.ap_rank is not None and not pd.isna(row.ap_rank) else None,
                 "nfl_players": int(row.nfl_players),
+                "pro_bowl_players": int(row.pro_bowl_players),
+                "all_pro_players": int(row.all_pro_players),
                 "players": [],
             }
     (WEB_DATA_DIR / "by_program.json").write_text(

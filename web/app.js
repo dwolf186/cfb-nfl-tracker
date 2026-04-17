@@ -4,7 +4,9 @@
 const METRIC_LABELS = {
   nfl_players: "NFL players",
   pro_bowls: "Pro Bowls",
+  pro_bowl_players: "Pro Bowl players",
   all_pros: "All-Pros",
+  all_pro_players: "All-Pro players",
 };
 
 const state = {
@@ -65,7 +67,9 @@ function leaderboardFiltered() {
         ap_rank: r.ap_rank,
         nfl_players: r.nfl_players,
         pro_bowls: r.pro_bowls,
+        pro_bowl_players: r.pro_bowl_players ?? 0,
         all_pros: r.all_pros,
+        all_pro_players: r.all_pro_players ?? 0,
       });
     }
   }
@@ -139,8 +143,10 @@ function renderLeaderboard() {
     { key: "season", label: "Season", num: true },
     { key: "ap_rank", label: "AP Rank", num: true },
     { key: "nfl_players", label: "NFL Players", num: true, primary: metric === "nfl_players" },
-    { key: "pro_bowls", label: "Pro Bowls", num: true, primary: metric === "pro_bowls" },
-    { key: "all_pros", label: "All-Pros", num: true, primary: metric === "all_pros" },
+    { key: "pro_bowls", label: "Pro Bowls", num: true, primary: metric === "pro_bowls", title: "Total Pro Bowl selections (career)" },
+    { key: "pro_bowl_players", label: "PB Players", num: true, primary: metric === "pro_bowl_players", title: "Distinct players with ≥1 Pro Bowl selection" },
+    { key: "all_pros", label: "All-Pros", num: true, primary: metric === "all_pros", title: "Total All-Pro selections (career)" },
+    { key: "all_pro_players", label: "AP Players", num: true, primary: metric === "all_pro_players", title: "Distinct players with ≥1 All-Pro selection" },
   ];
 
   el.innerHTML = `
@@ -151,7 +157,8 @@ function renderLeaderboard() {
             <th>#</th>
             ${cols.map(c => {
               const cls = "sortable" + (state.sort.key === c.key ? " sorted-" + state.sort.dir : "");
-              return `<th class="${cls}" data-sort="${c.key}">${c.label}</th>`;
+              const t = c.title ? ` title="${c.title}"` : "";
+              return `<th class="${cls}" data-sort="${c.key}"${t}>${c.label}</th>`;
             }).join("")}
           </tr>
         </thead>
@@ -164,7 +171,9 @@ function renderLeaderboard() {
               <td class="num">${r.ap_rank ?? "—"}</td>
               <td class="num${cols[3].primary ? " primary" : ""}">${r.nfl_players}</td>
               <td class="num${cols[4].primary ? " primary" : ""}">${r.pro_bowls}</td>
-              <td class="num${cols[5].primary ? " primary" : ""}">${r.all_pros}</td>
+              <td class="num${cols[5].primary ? " primary" : ""}">${r.pro_bowl_players}</td>
+              <td class="num${cols[6].primary ? " primary" : ""}">${r.all_pros}</td>
+              <td class="num${cols[7].primary ? " primary" : ""}">${r.all_pro_players}</td>
             </tr>
           `).join("")}
         </tbody>
@@ -213,8 +222,10 @@ function renderYear(year) {
             <th>AP Rank</th>
             <th>Program</th>
             <th>NFL Players</th>
-            <th>Pro Bowls</th>
-            <th>All-Pros</th>
+            <th title="Total Pro Bowl selections (career)">Pro Bowls</th>
+            <th title="Distinct players with ≥1 Pro Bowl selection">PB Players</th>
+            <th title="Total All-Pro selections (career)">All-Pros</th>
+            <th title="Distinct players with ≥1 All-Pro selection">AP Players</th>
           </tr>
         </thead>
         <tbody>
@@ -224,7 +235,9 @@ function renderYear(year) {
               <td>${r.program}</td>
               <td class="num">${r.nfl_players}</td>
               <td class="num">${r.pro_bowls}</td>
+              <td class="num">${r.pro_bowl_players ?? 0}</td>
               <td class="num">${r.all_pros}</td>
+              <td class="num">${r.all_pro_players ?? 0}</td>
             </tr>
           `).join("")}
         </tbody>
@@ -295,8 +308,11 @@ function renderProgram(name) {
     const prev = dedupPlayers.get(key);
     if (!prev || pl.year < prev.year) dedupPlayers.set(key, pl);
   }
-  const totalPB = [...dedupPlayers.values()].reduce((s, pl) => s + (pl.pro_bowls || 0), 0);
-  const totalAP = [...dedupPlayers.values()].reduce((s, pl) => s + (pl.all_pros || 0), 0);
+  const playersArr = [...dedupPlayers.values()];
+  const totalPB = playersArr.reduce((s, pl) => s + (pl.pro_bowls || 0), 0);
+  const totalAP = playersArr.reduce((s, pl) => s + (pl.all_pros || 0), 0);
+  const pbPlayers = playersArr.filter(pl => (pl.pro_bowls || 0) > 0).length;
+  const apPlayers = playersArr.filter(pl => (pl.all_pros || 0) > 0).length;
 
   el.innerHTML = `
     <div class="program-header">
@@ -306,8 +322,10 @@ function renderProgram(name) {
       </div>
       <div class="stat-row">
         <div class="stat"><span class="label">Unique players</span><span class="value">${dedupPlayers.size}</span></div>
-        <div class="stat"><span class="label">Pro Bowls</span><span class="value">${totalPB}</span></div>
-        <div class="stat"><span class="label">All-Pros</span><span class="value">${totalAP}</span></div>
+        <div class="stat" title="Distinct players with ≥1 Pro Bowl selection"><span class="label">PB players</span><span class="value">${pbPlayers}</span></div>
+        <div class="stat" title="Total Pro Bowl selections (career)"><span class="label">Pro Bowls</span><span class="value">${totalPB}</span></div>
+        <div class="stat" title="Distinct players with ≥1 All-Pro selection"><span class="label">AP players</span><span class="value">${apPlayers}</span></div>
+        <div class="stat" title="Total All-Pro selections (career)"><span class="label">All-Pros</span><span class="value">${totalAP}</span></div>
       </div>
     </div>
     <div class="chart-wrap">
@@ -393,8 +411,10 @@ function renderCompare(paramList) {
             <th>Program</th>
             <th>Top-25 Seasons</th>
             <th>NFL Players</th>
-            <th>Pro Bowls</th>
-            <th>All-Pros</th>
+            <th title="Total Pro Bowl selections (career)">Pro Bowls</th>
+            <th title="Distinct players with ≥1 Pro Bowl selection">PB Players</th>
+            <th title="Total All-Pro selections (career)">All-Pros</th>
+            <th title="Distinct players with ≥1 All-Pro selection">AP Players</th>
           </tr>
         </thead>
         <tbody id="compare-tbody"></tbody>
@@ -450,13 +470,14 @@ function renderCompare(paramList) {
   tbody.innerHTML = state.compareList.map(name => {
     const p = state.data.byProgram[name];
     if (!p) return "";
-    let nfl = 0, pb = 0, ap = 0, seasons = 0;
+    let nfl = 0, pb = 0, ap = 0, pbp = 0, app_ = 0, seasons = 0;
     for (const [yStr, y] of Object.entries(p.years)) {
       const yr = +yStr;
       if (!yearInRange(yr) || !rankOk(y.ap_rank)) continue;
-      nfl += y.nfl_players; pb += y.pro_bowls; ap += y.all_pros; seasons += 1;
+      nfl += y.nfl_players; pb += y.pro_bowls || 0; ap += y.all_pros || 0;
+      pbp += y.pro_bowl_players || 0; app_ += y.all_pro_players || 0; seasons += 1;
     }
-    return `<tr><td>${name}</td><td class="num">${seasons}</td><td class="num">${nfl}</td><td class="num">${pb}</td><td class="num">${ap}</td></tr>`;
+    return `<tr><td>${name}</td><td class="num">${seasons}</td><td class="num">${nfl}</td><td class="num">${pb}</td><td class="num">${pbp}</td><td class="num">${ap}</td><td class="num">${app_}</td></tr>`;
   }).join("");
 }
 

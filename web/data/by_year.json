@@ -6,6 +6,8 @@
       "nfl_players": 20,
       "pro_bowls": 10,
       "all_pros": 2,
+      "pro_bowl_players": 3,
+      "all_pro_players": 2,
       "player_list": [
         "Andre Woolfolk",
         "Antonio Perkins",
@@ -35,6 +37,8 @@
       "nfl_players": 35,
       "pro_bowls": 49,
       "all_pros": 9,
+      "pro_bowl_players": 14,
+      "all_pro_players": 4,
       "player_list": [
         "Andre Johnson",
         "Andre King",
@@ -79,6 +83,8 @@
       "nfl_players": 18,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Bryan Pittman",
         "Cameron Cleeland",
@@ -106,6 +112,8 @@
       "nfl_players": 13,
       "pro_bowls": 4,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "Bill Swancutt",
         "Dennis Weathersby",
@@ -128,6 +136,8 @@
       "nfl_players": 33,
       "pro_bowls": 7,
       "all_pros": 0,
+      "pro_bowl_players": 3,
+      "all_pro_players": 0,
       "player_list": [
         "Adrian McPherson",
         "Alex Barron",
@@ -170,6 +180,8 @@
       "nfl_players": 23,
       "pro_bowls": 7,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "Andre Davis",
         "Anthony Davis",
@@ -202,6 +214,8 @@
       "nfl_players": 16,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "A.J. Feeley",
         "Adam Snyder",
@@ -227,6 +241,8 @@
       "nfl_players": 29,
       "pro_bowls": 8,
       "all_pros": 0,
+      "pro_bowl_players": 3,
+      "all_pro_players": 0,
       "player_list": [
         "Barrett Ruud",
         "Benard Thomas",
@@ -265,6 +281,8 @@
       "nfl_players": 16,
       "pro_bowls": 5,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "Andy Eby",
         "Ben Leber",
@@ -290,6 +308,8 @@
       "nfl_players": 30,
       "pro_bowls": 2,
       "all_pros": 1,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Aaron Walker",
         "Alex Brown",
@@ -329,6 +349,8 @@
       "nfl_players": 33,
       "pro_bowls": 2,
       "all_pros": 1,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Anthony Denman",
         "Anthony Weaver",
@@ -371,6 +393,8 @@
       "nfl_players": 22,
       "pro_bowls": 18,
       "all_pros": 2,
+      "pro_bowl_players": 4,
+      "all_pro_players": 2,
       "player_list": [
         "Brandon Gorin",
         "Chukky Okobi",
@@ -402,6 +426,8 @@
       "nfl_players": 13,
       "pro_bowls": 6,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "Andre Gurode",
         "Brady McDonnell",
@@ -424,6 +450,8 @@
       "nfl_players": 19,
       "pro_bowls": 17,
       "all_pros": 1,
+      "pro_bowl_players": 6,
+      "all_pro_players": 1,
       "player_list": [
         "Ahmad Brooks",
         "Bo Scaife",
@@ -452,6 +480,8 @@
       "nfl_players": 16,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Bryant McNeal",
         "Corey Hulsey",
@@ -477,6 +507,8 @@
       "nfl_players": 13,
       "pro_bowls": 7,
       "all_pros": 3,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Aaron Schobel",
         "Anthony Alabi",
@@ -499,6 +531,8 @@
       "nfl_players": 14,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Chris Young",
         "Daryl Smith",
@@ -522,6 +556,8 @@
       "nfl_players": 32,
       "pro_bowls": 9,
       "all_pros": 5,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Alain Kashama",
         "Anthony Thomas",
@@ -563,6 +599,8 @@
       "nfl_players": 14,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Andre' Goodman",
         "Andrew Pinnock",
@@ -586,6 +624,8 @@
       "nfl_players": 32,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Adrian Mayes",
         "Bradie James",
@@ -627,6 +667,8 @@
       "nfl_players": 16,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Alan Reuber",
         "Bethel Johnson",
@@ -652,6 +694,8 @@
       "nfl_players": 7,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "David Stewart",
         "Donald Lee",
@@ -668,6 +712,8 @@
       "nfl_players": 13,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Austin King",
         "Damien Anderson",
@@ -690,6 +736,8 @@
       "nfl_players": 15,
       "pro_bowls": 14,
       "all_pros": 1,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Adrian Wilson",
         "Brian Williams",
@@ -714,6 +762,8 @@
       "nfl_players": 18,
       "pro_bowls": 6,
       "all_pros": 1,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Carlos Rogers",
         "Carnell Williams",
@@ -743,6 +793,8 @@
       "nfl_players": 37,
       "pro_bowls": 45,
       "all_pros": 11,
+      "pro_bowl_players": 12,
+      "all_pro_players": 4,
       "player_list": [
         "Andre Johnson",
         "Antrel Rolle",
@@ -789,6 +841,8 @@
       "nfl_players": 18,
       "pro_bowls": 5,
       "all_pros": 2,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Adam Snyder",
         "Demetrius Williams",
@@ -816,6 +870,8 @@
       "nfl_players": 30,
       "pro_bowls": 2,
       "all_pros": 1,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Aaron Walker",
         "Alex Brown",
@@ -855,6 +911,8 @@
       "nfl_players": 30,
       "pro_bowls": 18,
       "all_pros": 4,
+      "pro_bowl_players": 5,
+      "all_pro_players": 2,
       "player_list": [
         "Albert Haynesworth",
         "Andre Lott",
@@ -894,6 +952,8 @@
       "nfl_players": 23,
       "pro_bowls": 8,
       "all_pros": 1,
+      "pro_bowl_players": 4,
+      "all_pro_players": 1,
       "player_list": [
         "Ahmad Brooks",
         "Ahmard Hall",
@@ -926,6 +986,8 @@
       "nfl_players": 25,
       "pro_bowls": 12,
       "all_pros": 2,
+      "pro_bowl_players": 4,
+      "all_pro_players": 2,
       "player_list": [
         "Andre Woolfolk",
         "Antonio Perkins",
@@ -960,6 +1022,8 @@
       "nfl_players": 37,
       "pro_bowls": 11,
       "all_pros": 2,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Adrian Mayes",
         "Andrew Whitworth",
@@ -1006,6 +1070,8 @@
       "nfl_players": 27,
       "pro_bowls": 6,
       "all_pros": 0,
+      "pro_bowl_players": 3,
+      "all_pro_players": 0,
       "player_list": [
         "Barrett Ruud",
         "Benard Thomas",
@@ -1042,6 +1108,8 @@
       "nfl_players": 17,
       "pro_bowls": 6,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "Andre Gurode",
         "Brady McDonnell",
@@ -1068,6 +1136,8 @@
       "nfl_players": 13,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Calvin Armstrong",
         "D.D. Acholonu",
@@ -1090,6 +1160,8 @@
       "nfl_players": 22,
       "pro_bowls": 9,
       "all_pros": 1,
+      "pro_bowl_players": 5,
+      "all_pro_players": 1,
       "player_list": [
         "Brooks Barnard",
         "Bruce Perry",
@@ -1121,6 +1193,8 @@
       "nfl_players": 13,
       "pro_bowls": 2,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "Aaron Moorehead",
         "Brandon Lloyd",
@@ -1143,6 +1217,8 @@
       "nfl_players": 18,
       "pro_bowls": 2,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Andre' Goodman",
         "Andrew Pinnock",
@@ -1170,6 +1246,8 @@
       "nfl_players": 19,
       "pro_bowls": 8,
       "all_pros": 3,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Adam Terry",
         "Anthony Smith",
@@ -1198,6 +1276,8 @@
       "nfl_players": 33,
       "pro_bowls": 13,
       "all_pros": 2,
+      "pro_bowl_players": 5,
+      "all_pro_players": 2,
       "player_list": [
         "A.J. Nicholson",
         "Adrian McPherson",
@@ -1240,6 +1320,8 @@
       "nfl_players": 22,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Alex Smith",
         "Amon Gordon",
@@ -1271,6 +1353,8 @@
       "nfl_players": 14,
       "pro_bowls": 5,
       "all_pros": 2,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Anthony Floyd",
         "Brandon Johnson",
@@ -1294,6 +1378,8 @@
       "nfl_players": 24,
       "pro_bowls": 3,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Andre Davis",
         "Anthony Davis",
@@ -1327,6 +1413,8 @@
       "nfl_players": 15,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Bryan Pittman",
         "Cameron Cleeland",
@@ -1351,6 +1439,8 @@
       "nfl_players": 27,
       "pro_bowls": 2,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "Alain Kashama",
         "B.J. Askew",
@@ -1387,6 +1477,8 @@
       "nfl_players": 14,
       "pro_bowls": 5,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Antonio Garay",
         "Brian St. Pierre",
@@ -1410,6 +1502,8 @@
       "nfl_players": 30,
       "pro_bowls": 5,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Arnold Harrison",
         "Benjamin Watson",
@@ -1449,6 +1543,8 @@
       "nfl_players": 6,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Bruce Gradkowski",
         "Carl Ford",
@@ -1464,6 +1560,8 @@
       "nfl_players": 16,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Chris Young",
         "Daryl Smith",
@@ -1489,6 +1587,8 @@
       "nfl_players": 15,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Aaron Francisco",
         "Ben Archibald",
@@ -1515,6 +1615,8 @@
       "nfl_players": 40,
       "pro_bowls": 11,
       "all_pros": 2,
+      "pro_bowl_players": 4,
+      "all_pro_players": 1,
       "player_list": [
         "A.J. Hawk",
         "Adrien Clarke",
@@ -1564,6 +1666,8 @@
       "nfl_players": 35,
       "pro_bowls": 42,
       "all_pros": 7,
+      "pro_bowl_players": 13,
+      "all_pro_players": 4,
       "player_list": [
         "Andre Johnson",
         "Antrel Rolle",
@@ -1608,6 +1712,8 @@
       "nfl_players": 28,
       "pro_bowls": 5,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Arnold Harrison",
         "Benjamin Watson",
@@ -1645,6 +1751,8 @@
       "nfl_players": 30,
       "pro_bowls": 18,
       "all_pros": 6,
+      "pro_bowl_players": 5,
+      "all_pro_players": 2,
       "player_list": [
         "Alex Holmes",
         "Carson Palmer",
@@ -1684,6 +1792,8 @@
       "nfl_players": 22,
       "pro_bowls": 14,
       "all_pros": 5,
+      "pro_bowl_players": 4,
+      "all_pro_players": 2,
       "player_list": [
         "Adrian Peterson",
         "Andre Woolfolk",
@@ -1715,6 +1825,8 @@
       "nfl_players": 27,
       "pro_bowls": 10,
       "all_pros": 1,
+      "pro_bowl_players": 5,
+      "all_pro_players": 1,
       "player_list": [
         "Aaron Ross",
         "Ahmard Hall",
@@ -1751,6 +1863,8 @@
       "nfl_players": 9,
       "pro_bowls": 5,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "Brandon Archer",
         "Darren Sproles",
@@ -1769,6 +1883,8 @@
       "nfl_players": 22,
       "pro_bowls": 15,
       "all_pros": 6,
+      "pro_bowl_players": 5,
+      "all_pro_players": 4,
       "player_list": [
         "Abdul Hodge",
         "Ben Sobieski",
@@ -1800,6 +1916,8 @@
       "nfl_players": 30,
       "pro_bowls": 3,
       "all_pros": 0,
+      "pro_bowl_players": 3,
+      "all_pro_players": 0,
       "player_list": [
         "Alain Kashama",
         "Alan Branch",
@@ -1839,6 +1957,8 @@
       "nfl_players": 14,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Calvin Armstrong",
         "D.D. Acholonu",
@@ -1862,6 +1982,8 @@
       "nfl_players": 18,
       "pro_bowls": 12,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Brian Clark",
         "Chris Colmer",
@@ -1889,6 +2011,8 @@
       "nfl_players": 26,
       "pro_bowls": 9,
       "all_pros": 1,
+      "pro_bowl_players": 5,
+      "all_pro_players": 1,
       "player_list": [
         "Adam Podlesh",
         "Brooks Barnard",
@@ -1924,6 +2048,8 @@
       "nfl_players": 25,
       "pro_bowls": 10,
       "all_pros": 1,
+      "pro_bowl_players": 5,
+      "all_pro_players": 1,
       "player_list": [
         "Anthony Mix",
         "Ben Grubbs",
@@ -1958,6 +2084,8 @@
       "nfl_players": 8,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Brock Forsey",
         "Chris Carr",
@@ -1975,6 +2103,8 @@
       "nfl_players": 24,
       "pro_bowls": 9,
       "all_pros": 1,
+      "pro_bowl_players": 4,
+      "all_pro_players": 1,
       "player_list": [
         "Anthony Adams",
         "Bryan Scott",
@@ -2008,6 +2138,8 @@
       "nfl_players": 31,
       "pro_bowls": 2,
       "all_pros": 1,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Anthony Fasano",
         "Arnaz Battle",
@@ -2048,6 +2180,8 @@
       "nfl_players": 23,
       "pro_bowls": 3,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Aaron Rouse",
         "Anthony Davis",
@@ -2080,6 +2214,8 @@
       "nfl_players": 17,
       "pro_bowls": 21,
       "all_pros": 8,
+      "pro_bowl_players": 3,
+      "all_pro_players": 3,
       "player_list": [
         "Andy Lee",
         "Bryan Anderson",
@@ -2106,6 +2242,8 @@
       "nfl_players": 11,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Brian Iwuh",
         "Donald Strickland",
@@ -2126,6 +2264,8 @@
       "nfl_players": 36,
       "pro_bowls": 13,
       "all_pros": 2,
+      "pro_bowl_players": 5,
+      "all_pro_players": 2,
       "player_list": [
         "A.J. Nicholson",
         "Adrian McPherson",
@@ -2171,6 +2311,8 @@
       "nfl_players": 21,
       "pro_bowls": 7,
       "all_pros": 0,
+      "pro_bowl_players": 3,
+      "all_pro_players": 0,
       "player_list": [
         "Ahmad Brooks",
         "Alvin Pearman",
@@ -2201,6 +2343,8 @@
       "nfl_players": 7,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Anthony Alabi",
         "Bo Schobel",
@@ -2217,6 +2361,8 @@
       "nfl_players": 6,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Ahmad Bradshaw",
         "Byron Leftwich",
@@ -2232,6 +2378,8 @@
       "nfl_players": 13,
       "pro_bowls": 1,
       "all_pros": 1,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Adam Jones",
         "Antonio Brown",
@@ -2254,6 +2402,8 @@
       "nfl_players": 23,
       "pro_bowls": 8,
       "all_pros": 2,
+      "pro_bowl_players": 4,
+      "all_pro_players": 2,
       "player_list": [
         "Alonzo Ephraim",
         "Anthony Bryant",
@@ -2288,6 +2438,8 @@
       "nfl_players": 37,
       "pro_bowls": 7,
       "all_pros": 2,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Alex Holmes",
         "Chauncey Washington",
@@ -2334,6 +2486,8 @@
       "nfl_players": 37,
       "pro_bowls": 13,
       "all_pros": 2,
+      "pro_bowl_players": 5,
+      "all_pro_players": 1,
       "player_list": [
         "Adrian Mayes",
         "Andrew Whitworth",
@@ -2380,6 +2534,8 @@
       "nfl_players": 22,
       "pro_bowls": 14,
       "all_pros": 5,
+      "pro_bowl_players": 4,
+      "all_pro_players": 2,
       "player_list": [
         "Adrian Peterson",
         "Antonio Perkins",
@@ -2411,6 +2567,8 @@
       "nfl_players": 36,
       "pro_bowls": 11,
       "all_pros": 2,
+      "pro_bowl_players": 4,
+      "all_pro_players": 1,
       "player_list": [
         "A.J. Hawk",
         "Adrien Clarke",
@@ -2456,6 +2614,8 @@
       "nfl_players": 34,
       "pro_bowls": 39,
       "all_pros": 6,
+      "pro_bowl_players": 12,
+      "all_pro_players": 4,
       "player_list": [
         "Antrel Rolle",
         "Baraka Atkins",
@@ -2499,6 +2659,8 @@
       "nfl_players": 29,
       "pro_bowls": 6,
       "all_pros": 1,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Adrian Arrington",
         "Alain Kashama",
@@ -2537,6 +2699,8 @@
       "nfl_players": 27,
       "pro_bowls": 5,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Arnold Harrison",
         "Benjamin Watson",
@@ -2573,6 +2737,8 @@
       "nfl_players": 18,
       "pro_bowls": 14,
       "all_pros": 5,
+      "pro_bowl_players": 4,
+      "all_pro_players": 3,
       "player_list": [
         "Abdul Hodge",
         "Bob Sanders",
@@ -2600,6 +2766,8 @@
       "nfl_players": 13,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Calvin Armstrong",
         "D.D. Acholonu",
@@ -2622,6 +2790,8 @@
       "nfl_players": 8,
       "pro_bowls": 6,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Alphonso Hodge",
         "Ben Roethlisberger",
@@ -2639,6 +2809,8 @@
       "nfl_players": 32,
       "pro_bowls": 10,
       "all_pros": 2,
+      "pro_bowl_players": 4,
+      "all_pro_players": 2,
       "player_list": [
         "A.J. Nicholson",
         "Adrian McPherson",
@@ -2680,6 +2852,8 @@
       "nfl_players": 30,
       "pro_bowls": 14,
       "all_pros": 3,
+      "pro_bowl_players": 6,
+      "all_pro_players": 2,
       "player_list": [
         "Aaron Ross",
         "Ahmard Hall",
@@ -2719,6 +2893,8 @@
       "nfl_players": 14,
       "pro_bowls": 11,
       "all_pros": 5,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Charlie Anderson",
         "Chris Spencer",
@@ -2742,6 +2918,8 @@
       "nfl_players": 7,
       "pro_bowls": 4,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "Brandon Archer",
         "Darren Sproles",
@@ -2758,6 +2936,8 @@
       "nfl_players": 25,
       "pro_bowls": 5,
       "all_pros": 1,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Anthony Herrera",
         "Arron Sears",
@@ -2792,6 +2972,8 @@
       "nfl_players": 8,
       "pro_bowls": 4,
       "all_pros": 2,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Chris Carr",
         "Daryn Colledge",
@@ -2809,6 +2991,8 @@
       "nfl_players": 23,
       "pro_bowls": 5,
       "all_pros": 0,
+      "pro_bowl_players": 5,
+      "all_pro_players": 0,
       "player_list": [
         "Anthony Spencer",
         "Bernard Pollard",
@@ -2841,6 +3025,8 @@
       "nfl_players": 22,
       "pro_bowls": 5,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "Adam Carriker",
         "Barrett Ruud",
@@ -2872,6 +3058,8 @@
       "nfl_players": 12,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Anthony Montgomery",
         "Ben Utecht",
@@ -2893,6 +3081,8 @@
       "nfl_players": 8,
       "pro_bowls": 10,
       "all_pros": 2,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Alex Smith",
         "Brett Ratliff",
@@ -2910,6 +3100,8 @@
       "nfl_players": 19,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Anthony Waters",
         "Barry Richardson",
@@ -2938,6 +3130,8 @@
       "nfl_players": 5,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Charles Sharon",
         "Josh Harris",
@@ -2952,6 +3146,8 @@
       "nfl_players": 24,
       "pro_bowls": 2,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Andre Caldwell",
         "Ben Troupe",
@@ -2985,6 +3181,8 @@
       "nfl_players": 8,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Anthony Alabi",
         "Bo Schobel",
@@ -3002,6 +3200,8 @@
       "nfl_players": 28,
       "pro_bowls": 8,
       "all_pros": 1,
+      "pro_bowl_players": 4,
+      "all_pro_players": 1,
       "player_list": [
         "Adam Podlesh",
         "Andrew Crummey",
@@ -3041,6 +3241,8 @@
       "nfl_players": 43,
       "pro_bowls": 14,
       "all_pros": 3,
+      "pro_bowl_players": 5,
+      "all_pro_players": 2,
       "player_list": [
         "Alex Holmes",
         "Brian Cushing",
@@ -3093,6 +3295,8 @@
       "nfl_players": 26,
       "pro_bowls": 10,
       "all_pros": 1,
+      "pro_bowl_players": 5,
+      "all_pro_players": 1,
       "player_list": [
         "Anthony Mix",
         "Ben Grubbs",
@@ -3128,6 +3332,8 @@
       "nfl_players": 26,
       "pro_bowls": 11,
       "all_pros": 5,
+      "pro_bowl_players": 3,
+      "all_pro_players": 2,
       "player_list": [
         "Adrian Peterson",
         "Antonio Perkins",
@@ -3163,6 +3369,8 @@
       "nfl_players": 10,
       "pro_bowls": 10,
       "all_pros": 2,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Alex Smith",
         "Brett Ratliff",
@@ -3182,6 +3390,8 @@
       "nfl_players": 31,
       "pro_bowls": 17,
       "all_pros": 3,
+      "pro_bowl_players": 6,
+      "all_pro_players": 2,
       "player_list": [
         "Aaron Ross",
         "Ahmard Hall",
@@ -3222,6 +3432,8 @@
       "nfl_players": 24,
       "pro_bowls": 7,
       "all_pros": 2,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Amobi Okoye",
         "Antoine Harris",
@@ -3255,6 +3467,8 @@
       "nfl_players": 29,
       "pro_bowls": 8,
       "all_pros": 2,
+      "pro_bowl_players": 3,
+      "all_pro_players": 2,
       "player_list": [
         "Arnold Harrison",
         "Asher Allen",
@@ -3293,6 +3507,8 @@
       "nfl_players": 18,
       "pro_bowls": 10,
       "all_pros": 2,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Abdul Hodge",
         "Albert Young",
@@ -3320,6 +3536,8 @@
       "nfl_players": 19,
       "pro_bowls": 27,
       "all_pros": 5,
+      "pro_bowl_players": 6,
+      "all_pro_players": 2,
       "player_list": [
         "Aaron Merz",
         "Aaron Rodgers",
@@ -3348,6 +3566,8 @@
       "nfl_players": 22,
       "pro_bowls": 6,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Aaron Rouse",
         "Brandon Flowers",
@@ -3379,6 +3599,8 @@
       "nfl_players": 30,
       "pro_bowls": 28,
       "all_pros": 5,
+      "pro_bowl_players": 8,
+      "all_pro_players": 3,
       "player_list": [
         "Antonio Dixon",
         "Antrel Rolle",
@@ -3418,6 +3640,8 @@
       "nfl_players": 8,
       "pro_bowls": 4,
       "all_pros": 2,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Chris Carr",
         "Daryn Colledge",
@@ -3435,6 +3659,8 @@
       "nfl_players": 24,
       "pro_bowls": 4,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Arian Foster",
         "Arron Sears",
@@ -3468,6 +3694,8 @@
       "nfl_players": 25,
       "pro_bowls": 6,
       "all_pros": 1,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Adrian Arrington",
         "Alan Branch",
@@ -3502,6 +3730,8 @@
       "nfl_players": 31,
       "pro_bowls": 7,
       "all_pros": 2,
+      "pro_bowl_players": 3,
+      "all_pro_players": 2,
       "player_list": [
         "A.J. Nicholson",
         "Adrian McPherson",
@@ -3542,6 +3772,8 @@
       "nfl_players": 32,
       "pro_bowls": 13,
       "all_pros": 2,
+      "pro_bowl_players": 5,
+      "all_pro_players": 1,
       "player_list": [
         "Andrew Whitworth",
         "Ben Wilkerson",
@@ -3583,6 +3815,8 @@
       "nfl_players": 22,
       "pro_bowls": 12,
       "all_pros": 6,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Anttaj Hawthorne",
         "Brandon Williams",
@@ -3614,6 +3848,8 @@
       "nfl_players": 9,
       "pro_bowls": 1,
       "all_pros": 1,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Brandon Williams",
         "Daniel Loper",
@@ -3632,6 +3868,8 @@
       "nfl_players": 12,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Andrew Carnahan",
         "Andrew Walter",
@@ -3653,6 +3891,8 @@
       "nfl_players": 28,
       "pro_bowls": 13,
       "all_pros": 2,
+      "pro_bowl_players": 4,
+      "all_pro_players": 1,
       "player_list": [
         "A.J. Hawk",
         "Anthony Gonzalez",
@@ -3690,6 +3930,8 @@
       "nfl_players": 16,
       "pro_bowls": 5,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "B.J. Raji",
         "Gosder Cherilus",
@@ -3715,6 +3957,8 @@
       "nfl_players": 26,
       "pro_bowls": 8,
       "all_pros": 0,
+      "pro_bowl_players": 4,
+      "all_pro_players": 0,
       "player_list": [
         "Ahmad Brooks",
         "Alvin Pearman",
@@ -3750,6 +3994,8 @@
       "nfl_players": 13,
       "pro_bowls": 13,
       "all_pros": 6,
+      "pro_bowl_players": 2,
+      "all_pro_players": 2,
       "player_list": [
         "Claude Harriott",
         "Clint Session",
@@ -3772,6 +4018,8 @@
       "nfl_players": 16,
       "pro_bowls": 7,
       "all_pros": 1,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Adam Jennings",
         "Bear Pascoe",
@@ -3797,6 +4045,8 @@
       "nfl_players": 1,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Kyle Eckel"
       ]
@@ -3809,6 +4059,8 @@
       "nfl_players": 34,
       "pro_bowls": 20,
       "all_pros": 5,
+      "pro_bowl_players": 6,
+      "all_pro_players": 2,
       "player_list": [
         "Aaron Ross",
         "Ahmard Hall",
@@ -3852,6 +4104,8 @@
       "nfl_players": 43,
       "pro_bowls": 17,
       "all_pros": 3,
+      "pro_bowl_players": 5,
+      "all_pro_players": 2,
       "player_list": [
         "Anthony McCoy",
         "Brian Cushing",
@@ -3904,6 +4158,8 @@
       "nfl_players": 28,
       "pro_bowls": 12,
       "all_pros": 5,
+      "pro_bowl_players": 5,
+      "all_pro_players": 2,
       "player_list": [
         "A.Q. Shipley",
         "Aaron Maybin",
@@ -3941,6 +4197,8 @@
       "nfl_players": 30,
       "pro_bowls": 14,
       "all_pros": 2,
+      "pro_bowl_players": 5,
+      "all_pro_players": 1,
       "player_list": [
         "A.J. Hawk",
         "Alex Boone",
@@ -3980,6 +4238,8 @@
       "nfl_players": 9,
       "pro_bowls": 2,
       "all_pros": 1,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Darius Reynaud",
         "Dee McCann",
@@ -3998,6 +4258,8 @@
       "nfl_players": 34,
       "pro_bowls": 13,
       "all_pros": 2,
+      "pro_bowl_players": 5,
+      "all_pro_players": 1,
       "player_list": [
         "Al Woods",
         "Andrew Whitworth",
@@ -4041,6 +4303,8 @@
       "nfl_players": 22,
       "pro_bowls": 10,
       "all_pros": 1,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Aaron Rouse",
         "Brandon Flowers",
@@ -4072,6 +4336,8 @@
       "nfl_players": 23,
       "pro_bowls": 6,
       "all_pros": 1,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Andre Smith",
         "Anthony Madison",
@@ -4104,6 +4370,8 @@
       "nfl_players": 26,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Anthony Fasano",
         "Brady Quinn",
@@ -4139,6 +4407,8 @@
       "nfl_players": 29,
       "pro_bowls": 15,
       "all_pros": 3,
+      "pro_bowl_players": 4,
+      "all_pro_players": 2,
       "player_list": [
         "Asher Allen",
         "Brandon Coutu",
@@ -4177,6 +4447,8 @@
       "nfl_players": 12,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Aaron Brown",
         "Clint Gresham",
@@ -4198,6 +4470,8 @@
       "nfl_players": 21,
       "pro_bowls": 15,
       "all_pros": 3,
+      "pro_bowl_players": 5,
+      "all_pro_players": 2,
       "player_list": [
         "Dante Rosario",
         "Demetrius Williams",
@@ -4228,6 +4502,8 @@
       "nfl_players": 32,
       "pro_bowls": 23,
       "all_pros": 6,
+      "pro_bowl_players": 6,
+      "all_pro_players": 4,
       "player_list": [
         "Antonio Dixon",
         "Baraka Atkins",
@@ -4269,6 +4545,8 @@
       "nfl_players": 23,
       "pro_bowls": 4,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "Anthony Mix",
         "Ben Grubbs",
@@ -4301,6 +4579,8 @@
       "nfl_players": 18,
       "pro_bowls": 12,
       "all_pros": 6,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Brandon Williams",
         "Chris Maragos",
@@ -4328,6 +4608,8 @@
       "nfl_players": 15,
       "pro_bowls": 15,
       "all_pros": 3,
+      "pro_bowl_players": 4,
+      "all_pro_players": 2,
       "player_list": [
         "Alterraun Verner",
         "Brian Price",
@@ -4352,6 +4634,8 @@
       "nfl_players": 9,
       "pro_bowls": 1,
       "all_pros": 1,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Brandon Carter",
         "Brandon Williams",
@@ -4370,6 +4654,8 @@
       "nfl_players": 21,
       "pro_bowls": 7,
       "all_pros": 2,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Amobi Okoye",
         "Antoine Harris",
@@ -4400,6 +4686,8 @@
       "nfl_players": 22,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Anthony Waters",
         "Barry Richardson",
@@ -4431,6 +4719,8 @@
       "nfl_players": 27,
       "pro_bowls": 29,
       "all_pros": 8,
+      "pro_bowl_players": 5,
+      "all_pro_players": 3,
       "player_list": [
         "Adrian Peterson",
         "Brian Jackson",
@@ -4467,6 +4757,8 @@
       "nfl_players": 29,
       "pro_bowls": 17,
       "all_pros": 2,
+      "pro_bowl_players": 5,
+      "all_pro_players": 1,
       "player_list": [
         "Aaron Hernandez",
         "Andre Caldwell",
@@ -4505,6 +4797,8 @@
       "nfl_players": 24,
       "pro_bowls": 7,
       "all_pros": 2,
+      "pro_bowl_players": 3,
+      "all_pro_players": 2,
       "player_list": [
         "A.J. Nicholson",
         "Andre Fluellen",
@@ -4538,6 +4832,8 @@
       "nfl_players": 17,
       "pro_bowls": 5,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "B.J. Raji",
         "Gosder Cherilus",
@@ -4564,6 +4860,8 @@
       "nfl_players": 19,
       "pro_bowls": 6,
       "all_pros": 3,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Adam Carriker",
         "Barry Turner",
@@ -4592,6 +4890,8 @@
       "nfl_players": 14,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Blair White",
         "Brandon Fields",
@@ -4617,6 +4917,8 @@
       "nfl_players": 31,
       "pro_bowls": 21,
       "all_pros": 2,
+      "pro_bowl_players": 6,
+      "all_pro_players": 1,
       "player_list": [
         "Aaron Hernandez",
         "Ahmad Black",
@@ -4657,6 +4959,8 @@
       "nfl_players": 29,
       "pro_bowls": 11,
       "all_pros": 4,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Alex Boone",
         "Anthony Gonzalez",
@@ -4695,6 +4999,8 @@
       "nfl_players": 31,
       "pro_bowls": 10,
       "all_pros": 3,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Al Woods",
         "Brandon LaFell",
@@ -4735,6 +5041,8 @@
       "nfl_players": 42,
       "pro_bowls": 31,
       "all_pros": 5,
+      "pro_bowl_players": 8,
+      "all_pro_players": 3,
       "player_list": [
         "Allen Bradford",
         "Anthony McCoy",
@@ -4786,6 +5094,8 @@
       "nfl_players": 12,
       "pro_bowls": 4,
       "all_pros": 2,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Austin Pettis",
         "Brandyn Thompson",
@@ -4807,6 +5117,8 @@
       "nfl_players": 19,
       "pro_bowls": 2,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "Amobi Okoye",
         "Antoine Harris",
@@ -4835,6 +5147,8 @@
       "nfl_players": 20,
       "pro_bowls": 15,
       "all_pros": 11,
+      "pro_bowl_players": 2,
+      "all_pro_players": 2,
       "player_list": [
         "Chris Maragos",
         "Chris Pressley",
@@ -4864,6 +5178,8 @@
       "nfl_players": 19,
       "pro_bowls": 6,
       "all_pros": 1,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Adrian Arrington",
         "Alan Branch",
@@ -4892,6 +5208,8 @@
       "nfl_players": 23,
       "pro_bowls": 5,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Anthony Mix",
         "Ben Grubbs",
@@ -4924,6 +5242,8 @@
       "nfl_players": 12,
       "pro_bowls": 2,
       "all_pros": 1,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Brandon Hogan",
         "Chris Neild",
@@ -4945,6 +5265,8 @@
       "nfl_players": 27,
       "pro_bowls": 30,
       "all_pros": 9,
+      "pro_bowl_players": 5,
+      "all_pro_players": 4,
       "player_list": [
         "Adrian Peterson",
         "Auston English",
@@ -4981,6 +5303,8 @@
       "nfl_players": 24,
       "pro_bowls": 7,
       "all_pros": 0,
+      "pro_bowl_players": 4,
+      "all_pro_players": 0,
       "player_list": [
         "Alex Silvestro",
         "Anthony Davis",
@@ -5014,6 +5338,8 @@
       "nfl_players": 30,
       "pro_bowls": 18,
       "all_pros": 5,
+      "pro_bowl_players": 5,
+      "all_pro_players": 2,
       "player_list": [
         "Aaron Ross",
         "Aaron Williams",
@@ -5053,6 +5379,8 @@
       "nfl_players": 23,
       "pro_bowls": 25,
       "all_pros": 2,
+      "pro_bowl_players": 6,
+      "all_pro_players": 2,
       "player_list": [
         "Alex Mack",
         "Brandon Mebane",
@@ -5085,6 +5413,8 @@
       "nfl_players": 19,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Brett Goode",
         "Chris Houston",
@@ -5113,6 +5443,8 @@
       "nfl_players": 11,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Austin Collie",
         "Bryan Kehl",
@@ -5133,6 +5465,8 @@
       "nfl_players": 26,
       "pro_bowls": 3,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "Armando Allen",
         "Brady Quinn",
@@ -5168,6 +5502,8 @@
       "nfl_players": 11,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Aaron Curry",
         "Alphonso Smith",
@@ -5188,6 +5524,8 @@
       "nfl_players": 18,
       "pro_bowls": 11,
       "all_pros": 1,
+      "pro_bowl_players": 4,
+      "all_pro_players": 1,
       "player_list": [
         "Aaron Rouse",
         "Andre Smith",
@@ -5215,6 +5553,8 @@
       "nfl_players": 15,
       "pro_bowls": 5,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Alex Albright",
         "Anthony Castonzo",
@@ -5239,6 +5579,8 @@
       "nfl_players": 20,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Adam Koets",
         "Al Afalava",
@@ -5268,6 +5610,8 @@
       "nfl_players": 15,
       "pro_bowls": 4,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "Aaron Brown",
         "Andy Dalton",
@@ -5292,6 +5636,8 @@
       "nfl_players": 33,
       "pro_bowls": 24,
       "all_pros": 4,
+      "pro_bowl_players": 5,
+      "all_pro_players": 3,
       "player_list": [
         "A.J. Green",
         "Akeem Dent",
@@ -5334,6 +5680,8 @@
       "nfl_players": 26,
       "pro_bowls": 6,
       "all_pros": 5,
+      "pro_bowl_players": 3,
+      "all_pro_players": 2,
       "player_list": [
         "A.Q. Shipley",
         "Aaron Maybin",
@@ -5369,6 +5717,8 @@
       "nfl_players": 22,
       "pro_bowls": 7,
       "all_pros": 4,
+      "pro_bowl_players": 2,
+      "all_pro_players": 2,
       "player_list": [
         "Arian Foster",
         "Arron Sears",
@@ -5402,6 +5752,8 @@
       "nfl_players": 33,
       "pro_bowls": 8,
       "all_pros": 3,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Al Woods",
         "Brandon LaFell",
@@ -5444,6 +5796,8 @@
       "nfl_players": 35,
       "pro_bowls": 26,
       "all_pros": 5,
+      "pro_bowl_players": 7,
+      "all_pro_players": 4,
       "player_list": [
         "A.J. Green",
         "Akeem Dent",
@@ -5488,6 +5842,8 @@
       "nfl_players": 43,
       "pro_bowls": 26,
       "all_pros": 3,
+      "pro_bowl_players": 7,
+      "all_pro_players": 2,
       "player_list": [
         "Alex Parsons",
         "Allen Bradford",
@@ -5540,6 +5896,8 @@
       "nfl_players": 18,
       "pro_bowls": 2,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Aldon Smith",
         "Andrew Gachkar",
@@ -5567,6 +5925,8 @@
       "nfl_players": 27,
       "pro_bowls": 11,
       "all_pros": 4,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Alex Boone",
         "Anderson Russell",
@@ -5603,6 +5963,8 @@
       "nfl_players": 17,
       "pro_bowls": 2,
       "all_pros": 1,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Brandon Hogan",
         "Bruce Irvin",
@@ -5629,6 +5991,8 @@
       "nfl_players": 9,
       "pro_bowls": 6,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Anthony Collins",
         "Aqib Talib",
@@ -5647,6 +6011,8 @@
       "nfl_players": 32,
       "pro_bowls": 23,
       "all_pros": 5,
+      "pro_bowl_players": 4,
+      "all_pro_players": 3,
       "player_list": [
         "Auston English",
         "Brian Jackson",
@@ -5688,6 +6054,8 @@
       "nfl_players": 18,
       "pro_bowls": 11,
       "all_pros": 1,
+      "pro_bowl_players": 4,
+      "all_pro_players": 1,
       "player_list": [
         "Andre Smith",
         "Brandon Flowers",
@@ -5715,6 +6083,8 @@
       "nfl_players": 26,
       "pro_bowls": 16,
       "all_pros": 5,
+      "pro_bowl_players": 4,
+      "all_pro_players": 2,
       "player_list": [
         "Aaron Williams",
         "Brian Orakpo",
@@ -5750,6 +6120,8 @@
       "nfl_players": 16,
       "pro_bowls": 12,
       "all_pros": 6,
+      "pro_bowl_players": 3,
+      "all_pro_players": 2,
       "player_list": [
         "Alex Albright",
         "Anthony Castonzo",
@@ -5775,6 +6147,8 @@
       "nfl_players": 18,
       "pro_bowls": 8,
       "all_pros": 4,
+      "pro_bowl_players": 3,
+      "all_pro_players": 2,
       "player_list": [
         "Arian Foster",
         "Brad Cottam",
@@ -5802,6 +6176,8 @@
       "nfl_players": 5,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Davone Bess",
         "Greg Salas",
@@ -5816,6 +6192,8 @@
       "nfl_players": 20,
       "pro_bowls": 2,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "A.J. Jenkins",
         "Arrelious Benn",
@@ -5845,6 +6223,8 @@
       "nfl_players": 17,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Andrew Carnahan",
         "Brock Osweiler",
@@ -5871,6 +6251,8 @@
       "nfl_players": 20,
       "pro_bowls": 3,
       "all_pros": 1,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Ben Tate",
         "Brandon Mosley",
@@ -5900,6 +6282,8 @@
       "nfl_players": 10,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Austin Collie",
         "Bryan Kehl",
@@ -5919,6 +6303,8 @@
       "nfl_players": 24,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Andre Branch",
         "Barry Richardson",
@@ -5952,6 +6338,8 @@
       "nfl_players": 16,
       "pro_bowls": 5,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Adrian Arrington",
         "Brandon Graham",
@@ -5977,6 +6365,8 @@
       "nfl_players": 24,
       "pro_bowls": 16,
       "all_pros": 5,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Brad Nortman",
         "Chris Maragos",
@@ -6010,6 +6400,8 @@
       "nfl_players": 27,
       "pro_bowls": 19,
       "all_pros": 2,
+      "pro_bowl_players": 5,
+      "all_pro_players": 1,
       "player_list": [
         "Aaron Hernandez",
         "Ahmad Black",
@@ -6046,6 +6438,8 @@
       "nfl_players": 8,
       "pro_bowls": 1,
       "all_pros": 1,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Brandon Carter",
         "Brandon Williams",
@@ -6063,6 +6457,8 @@
       "nfl_players": 17,
       "pro_bowls": 9,
       "all_pros": 6,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Adrien Robinson",
         "Armon Binns",
@@ -6089,6 +6485,8 @@
       "nfl_players": 26,
       "pro_bowls": 10,
       "all_pros": 1,
+      "pro_bowl_players": 4,
+      "all_pro_players": 1,
       "player_list": [
         "Brandon Bair",
         "Casey Matthews",
@@ -6124,6 +6522,8 @@
       "nfl_players": 5,
       "pro_bowls": 4,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "George Selvie",
         "Jason Pierre-Paul",
@@ -6140,6 +6540,8 @@
       "nfl_players": 32,
       "pro_bowls": 20,
       "all_pros": 2,
+      "pro_bowl_players": 6,
+      "all_pro_players": 1,
       "player_list": [
         "Aaron Hernandez",
         "Ahmad Black",
@@ -6181,6 +6583,8 @@
       "nfl_players": 16,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Brandon Burton",
         "Brice McCain",
@@ -6206,6 +6610,8 @@
       "nfl_players": 39,
       "pro_bowls": 26,
       "all_pros": 3,
+      "pro_bowl_players": 7,
+      "all_pro_players": 2,
       "player_list": [
         "Alex Parsons",
         "Allen Bradford",
@@ -6254,6 +6660,8 @@
       "nfl_players": 24,
       "pro_bowls": 12,
       "all_pros": 3,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Aaron Williams",
         "Alex Okafor",
@@ -6287,6 +6695,8 @@
       "nfl_players": 34,
       "pro_bowls": 29,
       "all_pros": 7,
+      "pro_bowl_players": 5,
+      "all_pro_players": 4,
       "player_list": [
         "Auston English",
         "Brian Jackson",
@@ -6330,6 +6740,8 @@
       "nfl_players": 33,
       "pro_bowls": 15,
       "all_pros": 3,
+      "pro_bowl_players": 5,
+      "all_pro_players": 2,
       "player_list": [
         "Andre Smith",
         "Antoine Caldwell",
@@ -6372,6 +6784,8 @@
       "nfl_players": 16,
       "pro_bowls": 4,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "Aaron Brown",
         "Andy Dalton",
@@ -6397,6 +6811,8 @@
       "nfl_players": 24,
       "pro_bowls": 5,
       "all_pros": 5,
+      "pro_bowl_players": 2,
+      "all_pro_players": 2,
       "player_list": [
         "A.Q. Shipley",
         "Aaron Maybin",
@@ -6430,6 +6846,8 @@
       "nfl_players": 30,
       "pro_bowls": 11,
       "all_pros": 4,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Alex Boone",
         "Anderson Russell",
@@ -6469,6 +6887,8 @@
       "nfl_players": 28,
       "pro_bowls": 12,
       "all_pros": 1,
+      "pro_bowl_players": 4,
+      "all_pro_players": 1,
       "player_list": [
         "Brandon Bair",
         "Brandon Williams",
@@ -6506,6 +6926,8 @@
       "nfl_players": 15,
       "pro_bowls": 2,
       "all_pros": 1,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Austin Pettis",
         "Billy Winn",
@@ -6530,6 +6952,8 @@
       "nfl_players": 10,
       "pro_bowls": 1,
       "all_pros": 1,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Brandon Carter",
         "Brandon Williams",
@@ -6549,6 +6973,8 @@
       "nfl_players": 39,
       "pro_bowls": 26,
       "all_pros": 5,
+      "pro_bowl_players": 7,
+      "all_pro_players": 4,
       "player_list": [
         "A.J. Green",
         "Abry Jones",
@@ -6597,6 +7023,8 @@
       "nfl_players": 18,
       "pro_bowls": 3,
       "all_pros": 0,
+      "pro_bowl_players": 3,
+      "all_pro_players": 0,
       "player_list": [
         "Bobby Massie",
         "Bradley Sowell",
@@ -6624,6 +7052,8 @@
       "nfl_players": 13,
       "pro_bowls": 5,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "Andre Smith",
         "Corey Fuller",
@@ -6646,6 +7076,8 @@
       "nfl_players": 19,
       "pro_bowls": 1,
       "all_pros": 1,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Al Afalava",
         "Andy Levitre",
@@ -6674,6 +7106,8 @@
       "nfl_players": 18,
       "pro_bowls": 3,
       "all_pros": 1,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Aldon Smith",
         "Andrew Gachkar",
@@ -6701,6 +7135,8 @@
       "nfl_players": 19,
       "pro_bowls": 20,
       "all_pros": 10,
+      "pro_bowl_players": 4,
+      "all_pro_players": 2,
       "player_list": [
         "Adrien Robinson",
         "Armon Binns",
@@ -6729,6 +7165,8 @@
       "nfl_players": 17,
       "pro_bowls": 7,
       "all_pros": 2,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Blair White",
         "Brian Hoyer",
@@ -6755,6 +7193,8 @@
       "nfl_players": 10,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Austin Collie",
         "Dallas Reynolds",
@@ -6774,6 +7214,8 @@
       "nfl_players": 17,
       "pro_bowls": 5,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Brandon Pettigrew",
         "Brandon Weeden",
@@ -6800,6 +7242,8 @@
       "nfl_players": 10,
       "pro_bowls": 5,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Andrew Gardner",
         "Demaryius Thomas",
@@ -6819,6 +7263,8 @@
       "nfl_players": 25,
       "pro_bowls": 2,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "A.J. Edds",
         "Adam Gettis",
@@ -6853,6 +7299,8 @@
       "nfl_players": 17,
       "pro_bowls": 4,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Brandon Hogan",
         "Bruce Irvin",
@@ -6879,6 +7327,8 @@
       "nfl_players": 25,
       "pro_bowls": 6,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Antone Smith",
         "Bjoern Werner",
@@ -6915,6 +7365,8 @@
       "nfl_players": 37,
       "pro_bowls": 21,
       "all_pros": 3,
+      "pro_bowl_players": 7,
+      "all_pro_players": 2,
       "player_list": [
         "A.J. McCarron",
         "Anthony Steen",
@@ -6961,6 +7413,8 @@
       "nfl_players": 21,
       "pro_bowls": 7,
       "all_pros": 3,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Aaron Williams",
         "Alex Okafor",
@@ -6991,6 +7445,8 @@
       "nfl_players": 39,
       "pro_bowls": 19,
       "all_pros": 2,
+      "pro_bowl_players": 5,
+      "all_pro_players": 1,
       "player_list": [
         "Aaron Hernandez",
         "Ahmad Black",
@@ -7039,6 +7495,8 @@
       "nfl_players": 18,
       "pro_bowls": 8,
       "all_pros": 1,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Austin Pettis",
         "Billy Winn",
@@ -7066,6 +7524,8 @@
       "nfl_players": 32,
       "pro_bowls": 11,
       "all_pros": 5,
+      "pro_bowl_players": 4,
+      "all_pro_players": 2,
       "player_list": [
         "Alex Boone",
         "Anderson Russell",
@@ -7107,6 +7567,8 @@
       "nfl_players": 14,
       "pro_bowls": 5,
       "all_pros": 0,
+      "pro_bowl_players": 3,
+      "all_pro_players": 0,
       "player_list": [
         "Andy Dalton",
         "Clint Gresham",
@@ -7130,6 +7592,8 @@
       "nfl_players": 24,
       "pro_bowls": 2,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "A.J. Edds",
         "Adam Gettis",
@@ -7163,6 +7627,8 @@
       "nfl_players": 16,
       "pro_bowls": 18,
       "all_pros": 10,
+      "pro_bowl_players": 2,
+      "all_pro_players": 2,
       "player_list": [
         "Adrien Robinson",
         "Armon Binns",
@@ -7188,6 +7654,8 @@
       "nfl_players": 23,
       "pro_bowls": 6,
       "all_pros": 5,
+      "pro_bowl_players": 3,
+      "all_pro_players": 2,
       "player_list": [
         "Allen Robinson",
         "Andrew Quarless",
@@ -7220,6 +7688,8 @@
       "nfl_players": 16,
       "pro_bowls": 7,
       "all_pros": 1,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Andre Smith",
         "Antone Exum",
@@ -7245,6 +7715,8 @@
       "nfl_players": 41,
       "pro_bowls": 25,
       "all_pros": 6,
+      "pro_bowl_players": 6,
+      "all_pro_players": 2,
       "player_list": [
         "Al Woods",
         "Alfred Blue",
@@ -7295,6 +7767,8 @@
       "nfl_players": 26,
       "pro_bowls": 6,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "Brandon Bair",
         "Brandon Williams",
@@ -7330,6 +7804,8 @@
       "nfl_players": 11,
       "pro_bowls": 5,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Brandon Watts",
         "Demaryius Thomas",
@@ -7350,6 +7826,8 @@
       "nfl_players": 9,
       "pro_bowls": 2,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "Daniel Sorensen",
         "Dennis Pitta",
@@ -7368,6 +7846,8 @@
       "nfl_players": 37,
       "pro_bowls": 7,
       "all_pros": 1,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Adewale Ojomo",
         "Allen Bailey",
@@ -7414,6 +7894,8 @@
       "nfl_players": 26,
       "pro_bowls": 21,
       "all_pros": 6,
+      "pro_bowl_players": 4,
+      "all_pro_players": 2,
       "player_list": [
         "Beau Allen",
         "Brad Nortman",
@@ -7449,6 +7931,8 @@
       "nfl_players": 17,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Anthony Denham",
         "Brandon Burton",
@@ -7475,6 +7959,8 @@
       "nfl_players": 25,
       "pro_bowls": 6,
       "all_pros": 4,
+      "pro_bowl_players": 2,
+      "all_pro_players": 2,
       "player_list": [
         "Adi Kunalic",
         "Alex Henery",
@@ -7509,6 +7995,8 @@
       "nfl_players": 17,
       "pro_bowls": 10,
       "all_pros": 8,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Aaron Berry",
         "Aaron Donald",
@@ -7535,6 +8023,8 @@
       "nfl_players": 34,
       "pro_bowls": 19,
       "all_pros": 2,
+      "pro_bowl_players": 5,
+      "all_pro_players": 1,
       "player_list": [
         "Alex Parsons",
         "Allen Bradford",
@@ -7578,6 +8068,8 @@
       "nfl_players": 14,
       "pro_bowls": 2,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "Bobby Massie",
         "Bradley Sowell",
@@ -7601,6 +8093,8 @@
       "nfl_players": 16,
       "pro_bowls": 2,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Brandon Hogan",
         "Bruce Irvin",
@@ -7626,6 +8120,8 @@
       "nfl_players": 12,
       "pro_bowls": 6,
       "all_pros": 4,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Brooks Reed",
         "Colin Baxter",
@@ -7647,6 +8143,8 @@
       "nfl_players": 8,
       "pro_bowls": 9,
       "all_pros": 4,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Antonio Brown",
         "Dan LeFevour",
@@ -7664,6 +8162,8 @@
       "nfl_players": 6,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Brandon Carter",
         "Bront Bird",
@@ -7681,6 +8181,8 @@
       "nfl_players": 27,
       "pro_bowls": 4,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Angelo Blackson",
         "Brandon King",
@@ -7717,6 +8219,8 @@
       "nfl_players": 13,
       "pro_bowls": 4,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "Andy Dalton",
         "Colin Jones",
@@ -7739,6 +8243,8 @@
       "nfl_players": 26,
       "pro_bowls": 3,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Arik Armstead",
         "Brandon Bair",
@@ -7774,6 +8280,8 @@
       "nfl_players": 36,
       "pro_bowls": 21,
       "all_pros": 5,
+      "pro_bowl_players": 5,
+      "all_pro_players": 2,
       "player_list": [
         "A.J. Tarpley",
         "Alex Carter",
@@ -7819,6 +8327,8 @@
       "nfl_players": 32,
       "pro_bowls": 10,
       "all_pros": 5,
+      "pro_bowl_players": 3,
+      "all_pro_players": 2,
       "player_list": [
         "Anderson Russell",
         "Andrew Norwell",
@@ -7860,6 +8370,8 @@
       "nfl_players": 33,
       "pro_bowls": 9,
       "all_pros": 3,
+      "pro_bowl_players": 2,
+      "all_pro_players": 2,
       "player_list": [
         "Aaron Colvin",
         "Aaron Ripkowski",
@@ -7902,6 +8414,8 @@
       "nfl_players": 25,
       "pro_bowls": 23,
       "all_pros": 6,
+      "pro_bowl_players": 5,
+      "all_pro_players": 2,
       "player_list": [
         "Beau Allen",
         "Brad Nortman",
@@ -7936,6 +8450,8 @@
       "nfl_players": 41,
       "pro_bowls": 31,
       "all_pros": 6,
+      "pro_bowl_players": 8,
+      "all_pro_players": 2,
       "player_list": [
         "Alfred Blue",
         "Barkevious Mingo",
@@ -7986,6 +8502,8 @@
       "nfl_players": 18,
       "pro_bowls": 9,
       "all_pros": 1,
+      "pro_bowl_players": 4,
+      "all_pro_players": 1,
       "player_list": [
         "Austin Pettis",
         "Billy Winn",
@@ -8013,6 +8531,8 @@
       "nfl_players": 39,
       "pro_bowls": 29,
       "all_pros": 4,
+      "pro_bowl_players": 9,
+      "all_pro_players": 3,
       "player_list": [
         "A.J. McCarron",
         "Amari Cooper",
@@ -8061,6 +8581,8 @@
       "nfl_players": 21,
       "pro_bowls": 7,
       "all_pros": 2,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Bennie Fowler",
         "Chris Rucker",
@@ -8091,6 +8613,8 @@
       "nfl_players": 25,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "A.J. Derby",
         "Alvin Bailey",
@@ -8125,6 +8649,8 @@
       "nfl_players": 12,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Brandon Weeden",
         "Dan Bailey",
@@ -8146,6 +8672,8 @@
       "nfl_players": 20,
       "pro_bowls": 3,
       "all_pros": 1,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Aldon Smith",
         "Andrew Gachkar",
@@ -8175,6 +8703,8 @@
       "nfl_players": 12,
       "pro_bowls": 7,
       "all_pros": 2,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Brandon Marshall",
         "Chris Barker",
@@ -8196,6 +8726,8 @@
       "nfl_players": 15,
       "pro_bowls": 14,
       "all_pros": 2,
+      "pro_bowl_players": 4,
+      "all_pro_players": 2,
       "player_list": [
         "Benardrick McKinney",
         "Cameron Lawrence",
@@ -8220,6 +8752,8 @@
       "nfl_players": 13,
       "pro_bowls": 3,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Andre Smith",
         "Antone Exum",
@@ -8242,6 +8776,8 @@
       "nfl_players": 26,
       "pro_bowls": 1,
       "all_pros": 1,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Adi Kunalic",
         "Alex Henery",
@@ -8277,6 +8813,8 @@
       "nfl_players": 16,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Anthony Denham",
         "Brandon Burton",
@@ -8302,6 +8840,8 @@
       "nfl_players": 24,
       "pro_bowls": 12,
       "all_pros": 2,
+      "pro_bowl_players": 4,
+      "all_pro_players": 1,
       "player_list": [
         "A.J. Cann",
         "Ace Sanders",
@@ -8335,6 +8875,8 @@
       "nfl_players": 21,
       "pro_bowls": 16,
       "all_pros": 3,
+      "pro_bowl_players": 4,
+      "all_pro_players": 1,
       "player_list": [
         "Cedric Ogbuehi",
         "Christine Michael",
@@ -8365,6 +8907,8 @@
       "nfl_players": 37,
       "pro_bowls": 10,
       "all_pros": 1,
+      "pro_bowl_players": 5,
+      "all_pro_players": 1,
       "player_list": [
         "Bjoern Werner",
         "Bobby Hart",
@@ -8411,6 +8955,8 @@
       "nfl_players": 21,
       "pro_bowls": 2,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Brandon Hogan",
         "Bruce Irvin",
@@ -8441,6 +8987,8 @@
       "nfl_players": 3,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Greg Salas",
         "John Estes",
@@ -8453,6 +9001,8 @@
       "nfl_players": 4,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Charles Clay",
         "Damaris Johnson",
@@ -8468,6 +9018,8 @@
       "nfl_players": 42,
       "pro_bowls": 26,
       "all_pros": 2,
+      "pro_bowl_players": 8,
+      "all_pro_players": 2,
       "player_list": [
         "A'Shawn Robinson",
         "A.J. McCarron",
@@ -8519,6 +9071,8 @@
       "nfl_players": 43,
       "pro_bowls": 24,
       "all_pros": 3,
+      "pro_bowl_players": 8,
+      "all_pro_players": 1,
       "player_list": [
         "Alfred Blue",
         "Anthony Johnson",
@@ -8571,6 +9125,8 @@
       "nfl_players": 12,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Brandon Weeden",
         "Emmanuel Ogbah",
@@ -8592,6 +9148,8 @@
       "nfl_players": 26,
       "pro_bowls": 6,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Alex Balducci",
         "Arik Armstead",
@@ -8627,6 +9185,8 @@
       "nfl_players": 32,
       "pro_bowls": 4,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "Alex Parsons",
         "Antwaun Woods",
@@ -8668,6 +9228,8 @@
       "nfl_players": 28,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "A.J. Derby",
         "Alex Collins",
@@ -8705,6 +9267,8 @@
       "nfl_players": 17,
       "pro_bowls": 9,
       "all_pros": 1,
+      "pro_bowl_players": 4,
+      "all_pro_players": 1,
       "player_list": [
         "Billy Winn",
         "Charles Leno",
@@ -8731,6 +9295,8 @@
       "nfl_players": 10,
       "pro_bowls": 2,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Arthur Brown",
         "B.J. Finney",
@@ -8750,6 +9316,8 @@
       "nfl_players": 28,
       "pro_bowls": 13,
       "all_pros": 3,
+      "pro_bowl_players": 5,
+      "all_pro_players": 2,
       "player_list": [
         "A.J. Cann",
         "Ace Sanders",
@@ -8787,6 +9355,8 @@
       "nfl_players": 26,
       "pro_bowls": 19,
       "all_pros": 1,
+      "pro_bowl_players": 5,
+      "all_pro_players": 1,
       "player_list": [
         "Alex Erickson",
         "Austin Traylor",
@@ -8822,6 +9392,8 @@
       "nfl_players": 26,
       "pro_bowls": 7,
       "all_pros": 4,
+      "pro_bowl_players": 2,
+      "all_pro_players": 2,
       "player_list": [
         "Aaron Burbridge",
         "Bennie Fowler",
@@ -8857,6 +9429,8 @@
       "nfl_players": 21,
       "pro_bowls": 6,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "Brennen Beyer",
         "David Molk",
@@ -8887,6 +9461,8 @@
       "nfl_players": 32,
       "pro_bowls": 6,
       "all_pros": 2,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Aaron Colvin",
         "Aaron Ripkowski",
@@ -8928,6 +9504,8 @@
       "nfl_players": 16,
       "pro_bowls": 5,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Ahmad Dixon",
         "Andrew Billings",
@@ -8953,6 +9531,8 @@
       "nfl_players": 16,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Aaron Green",
         "Derrick Kindred",
@@ -8978,6 +9558,8 @@
       "nfl_players": 38,
       "pro_bowls": 18,
       "all_pros": 2,
+      "pro_bowl_players": 5,
+      "all_pro_players": 1,
       "player_list": [
         "A.J. Tarpley",
         "Alex Carter",
@@ -9025,6 +9607,8 @@
       "nfl_players": 22,
       "pro_bowls": 2,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Bruce Irvin",
         "Charles Sims",
@@ -9056,6 +9640,8 @@
       "nfl_players": 8,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Adrian McDonald",
         "Case Keenum",
@@ -9073,6 +9659,8 @@
       "nfl_players": 31,
       "pro_bowls": 5,
       "all_pros": 3,
+      "pro_bowl_players": 3,
+      "all_pro_players": 2,
       "player_list": [
         "Aaron Murray",
         "Abry Jones",
@@ -9113,6 +9701,8 @@
       "nfl_players": 10,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Austin Davis",
         "Cordarro Law",
@@ -9132,6 +9722,8 @@
       "nfl_players": 10,
       "pro_bowls": 2,
       "all_pros": 1,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Antone Exum",
         "Corey Fuller",
@@ -9151,6 +9743,8 @@
       "nfl_players": 15,
       "pro_bowls": 11,
       "all_pros": 4,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Adrien Robinson",
         "Blake Annen",
@@ -9175,6 +9769,8 @@
       "nfl_players": 37,
       "pro_bowls": 15,
       "all_pros": 4,
+      "pro_bowl_players": 5,
+      "all_pro_players": 2,
       "player_list": [
         "Bjoern Werner",
         "Bobby Hart",
@@ -9221,6 +9817,8 @@
       "nfl_players": 31,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Angelo Blackson",
         "Avery Young",
@@ -9261,6 +9859,8 @@
       "nfl_players": 25,
       "pro_bowls": 1,
       "all_pros": 1,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Alex Lewis",
         "Alfonzo Dennard",
@@ -9297,6 +9897,8 @@
       "nfl_players": 46,
       "pro_bowls": 32,
       "all_pros": 5,
+      "pro_bowl_players": 10,
+      "all_pro_players": 4,
       "player_list": [
         "A'Shawn Robinson",
         "A.J. McCarron",
@@ -9352,6 +9954,8 @@
       "nfl_players": 20,
       "pro_bowls": 6,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Alex Balducci",
         "Arik Armstead",
@@ -9381,6 +9985,8 @@
       "nfl_players": 39,
       "pro_bowls": 19,
       "all_pros": 4,
+      "pro_bowl_players": 7,
+      "all_pro_players": 3,
       "player_list": [
         "Adolphus Washington",
         "Andrew Norwell",
@@ -9429,6 +10035,8 @@
       "nfl_players": 28,
       "pro_bowls": 13,
       "all_pros": 8,
+      "pro_bowl_players": 4,
+      "all_pro_players": 2,
       "player_list": [
         "Ben Koyack",
         "Braxston Cave",
@@ -9466,6 +10074,8 @@
       "nfl_players": 27,
       "pro_bowls": 3,
       "all_pros": 2,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Aaron Murray",
         "Abry Jones",
@@ -9502,6 +10112,8 @@
       "nfl_players": 25,
       "pro_bowls": 14,
       "all_pros": 5,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Brandon Williams",
         "Cedric Ogbuehi",
@@ -9536,6 +10148,8 @@
       "nfl_players": 31,
       "pro_bowls": 12,
       "all_pros": 3,
+      "pro_bowl_players": 4,
+      "all_pro_players": 1,
       "player_list": [
         "A.J. Tarpley",
         "Alex Carter",
@@ -9576,6 +10190,8 @@
       "nfl_players": 22,
       "pro_bowls": 4,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "A.J. Cann",
         "Ace Sanders",
@@ -9607,6 +10223,8 @@
       "nfl_players": 47,
       "pro_bowls": 4,
       "all_pros": 0,
+      "pro_bowl_players": 4,
+      "all_pro_players": 0,
       "player_list": [
         "Alex Anzalone",
         "Alex McCalister",
@@ -9663,6 +10281,8 @@
       "nfl_players": 40,
       "pro_bowls": 19,
       "all_pros": 4,
+      "pro_bowl_players": 6,
+      "all_pro_players": 2,
       "player_list": [
         "Bjoern Werner",
         "Bobby Hart",
@@ -9712,6 +10332,8 @@
       "nfl_players": 37,
       "pro_bowls": 11,
       "all_pros": 4,
+      "pro_bowl_players": 4,
+      "all_pro_players": 2,
       "player_list": [
         "Adam Humphries",
         "Andre Ellington",
@@ -9758,6 +10380,8 @@
       "nfl_players": 46,
       "pro_bowls": 29,
       "all_pros": 5,
+      "pro_bowl_players": 10,
+      "all_pro_players": 3,
       "player_list": [
         "Alfred Blue",
         "Anthony Johnson",
@@ -9813,6 +10437,8 @@
       "nfl_players": 28,
       "pro_bowls": 8,
       "all_pros": 2,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Aaron Colvin",
         "Aaron Ripkowski",
@@ -9850,6 +10476,8 @@
       "nfl_players": 9,
       "pro_bowls": 2,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Arthur Brown",
         "B.J. Finney",
@@ -9868,6 +10496,8 @@
       "nfl_players": 6,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Jimmie Ward",
         "Ken Bishop",
@@ -9883,6 +10513,8 @@
       "nfl_players": 20,
       "pro_bowls": 3,
       "all_pros": 1,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Brandin Cooks",
         "Connor Hamlett",
@@ -9912,6 +10544,8 @@
       "nfl_players": 21,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Aaron Epps",
         "Alex Kupper",
@@ -9942,6 +10576,8 @@
       "nfl_players": 24,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Alex Lewis",
         "Ameer Abdullah",
@@ -9975,6 +10611,8 @@
       "nfl_players": 13,
       "pro_bowls": 7,
       "all_pros": 0,
+      "pro_bowl_players": 3,
+      "all_pro_players": 0,
       "player_list": [
         "Charles Leno",
         "Chase Baker",
@@ -9997,6 +10635,8 @@
       "nfl_players": 32,
       "pro_bowls": 6,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "Amara Darboh",
         "Ben Gedeon",
@@ -10038,6 +10678,8 @@
       "nfl_players": 11,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Akeem King",
         "Bene' Benwikere",
@@ -10058,6 +10700,8 @@
       "nfl_players": 15,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Chuck Jacobs",
         "D.J. Tialavea",
@@ -10082,6 +10726,8 @@
       "nfl_players": 12,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Anthony Walker",
         "Austin Carr",
@@ -10103,6 +10749,8 @@
       "nfl_players": 13,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Adam Butler",
         "Andre Hal",
@@ -10125,6 +10773,8 @@
       "nfl_players": 4,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Brian Winters",
         "Dri Archer",
@@ -10140,6 +10790,8 @@
       "nfl_players": 35,
       "pro_bowls": 22,
       "all_pros": 4,
+      "pro_bowl_players": 7,
+      "all_pro_players": 2,
       "player_list": [
         "Auden Tate",
         "Bobby Hart",
@@ -10184,6 +10836,8 @@
       "nfl_players": 36,
       "pro_bowls": 1,
       "all_pros": 1,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Angelo Blackson",
         "Avery Young",
@@ -10229,6 +10883,8 @@
       "nfl_players": 21,
       "pro_bowls": 0,
       "all_pros": 2,
+      "pro_bowl_players": 0,
+      "all_pro_players": 1,
       "player_list": [
         "Aaron Burbridge",
         "Bennie Fowler",
@@ -10259,6 +10915,8 @@
       "nfl_players": 17,
       "pro_bowls": 4,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "A.J. Cann",
         "Brandon Shell",
@@ -10285,6 +10943,8 @@
       "nfl_players": 18,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Charles Harris",
         "Connor McGovern",
@@ -10312,6 +10972,8 @@
       "nfl_players": 28,
       "pro_bowls": 11,
       "all_pros": 1,
+      "pro_bowl_players": 4,
+      "all_pro_players": 1,
       "player_list": [
         "Aaron Colvin",
         "Aaron Ripkowski",
@@ -10349,6 +11011,8 @@
       "nfl_players": 50,
       "pro_bowls": 37,
       "all_pros": 8,
+      "pro_bowl_players": 11,
+      "all_pro_players": 5,
       "player_list": [
         "A'Shawn Robinson",
         "A.J. McCarron",
@@ -10408,6 +11072,8 @@
       "nfl_players": 35,
       "pro_bowls": 6,
       "all_pros": 1,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Adam Humphries",
         "B.J. Goodson",
@@ -10452,6 +11118,8 @@
       "nfl_players": 20,
       "pro_bowls": 3,
       "all_pros": 1,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Alex Balducci",
         "Arik Armstead",
@@ -10481,6 +11149,8 @@
       "nfl_players": 16,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "A.J. Bouye",
         "Blake Bortles",
@@ -10506,6 +11176,8 @@
       "nfl_players": 31,
       "pro_bowls": 9,
       "all_pros": 3,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "A.J. Tarpley",
         "Alex Carter",
@@ -10546,6 +11218,8 @@
       "nfl_players": 44,
       "pro_bowls": 24,
       "all_pros": 4,
+      "pro_bowl_players": 8,
+      "all_pro_players": 3,
       "player_list": [
         "Adolphus Washington",
         "Andrew Norwell",
@@ -10599,6 +11273,8 @@
       "nfl_players": 13,
       "pro_bowls": 4,
       "all_pros": 1,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Ahmad Dixon",
         "Andrew Billings",
@@ -10621,6 +11297,8 @@
       "nfl_players": 46,
       "pro_bowls": 26,
       "all_pros": 2,
+      "pro_bowl_players": 9,
+      "all_pro_players": 2,
       "player_list": [
         "Alfred Blue",
         "Anthony Johnson",
@@ -10676,6 +11354,8 @@
       "nfl_players": 24,
       "pro_bowls": 7,
       "all_pros": 3,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Aaron Epps",
         "B.J. Dubose",
@@ -10709,6 +11389,8 @@
       "nfl_players": 30,
       "pro_bowls": 8,
       "all_pros": 1,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Aaron Wallace",
         "Alex Redmond",
@@ -10748,6 +11430,8 @@
       "nfl_players": 15,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Blake Jarwin",
         "Chris Carson",
@@ -10772,6 +11456,8 @@
       "nfl_players": 25,
       "pro_bowls": 14,
       "all_pros": 5,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Armani Watts",
         "Brandon Williams",
@@ -10806,6 +11492,8 @@
       "nfl_players": 36,
       "pro_bowls": 6,
       "all_pros": 0,
+      "pro_bowl_players": 3,
+      "all_pro_players": 0,
       "player_list": [
         "Adoree' Jackson",
         "Antwaun Woods",
@@ -10851,6 +11539,8 @@
       "nfl_players": 19,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Cameron Marshall",
         "Carl Bradford",
@@ -10879,6 +11569,8 @@
       "nfl_players": 23,
       "pro_bowls": 11,
       "all_pros": 5,
+      "pro_bowl_players": 3,
+      "all_pro_players": 2,
       "player_list": [
         "Alex Erickson",
         "Austin Traylor",
@@ -10911,6 +11603,8 @@
       "nfl_players": 30,
       "pro_bowls": 20,
       "all_pros": 11,
+      "pro_bowl_players": 4,
+      "all_pro_players": 3,
       "player_list": [
         "Ben Koyack",
         "Braxston Cave",
@@ -10950,6 +11644,8 @@
       "nfl_players": 13,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Breon Borders",
         "Cooper Helfet",
@@ -10972,6 +11668,8 @@
       "nfl_players": 15,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Adam Butler",
         "Andre Hal",
@@ -10996,6 +11694,8 @@
       "nfl_players": 30,
       "pro_bowls": 13,
       "all_pros": 4,
+      "pro_bowl_players": 3,
+      "all_pro_players": 2,
       "player_list": [
         "Austin Seferian-Jenkins",
         "Bishop Sankey",
@@ -11037,6 +11737,8 @@
       "nfl_players": 43,
       "pro_bowls": 28,
       "all_pros": 4,
+      "pro_bowl_players": 8,
+      "all_pro_players": 3,
       "player_list": [
         "Adolphus Washington",
         "Billy Price",
@@ -11089,6 +11791,8 @@
       "nfl_players": 18,
       "pro_bowls": 3,
       "all_pros": 1,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Alex Balducci",
         "Arik Armstead",
@@ -11116,6 +11820,8 @@
       "nfl_players": 20,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Aaron Green",
         "Austin Schlottmann",
@@ -11145,6 +11851,8 @@
       "nfl_players": 54,
       "pro_bowls": 38,
       "all_pros": 10,
+      "pro_bowl_players": 11,
+      "all_pro_players": 7,
       "player_list": [
         "A'Shawn Robinson",
         "Amari Cooper",
@@ -11208,6 +11916,8 @@
       "nfl_players": 23,
       "pro_bowls": 0,
       "all_pros": 2,
+      "pro_bowl_players": 0,
+      "all_pro_players": 1,
       "player_list": [
         "Aaron Burbridge",
         "Bennie Fowler",
@@ -11240,6 +11950,8 @@
       "nfl_players": 28,
       "pro_bowls": 22,
       "all_pros": 4,
+      "pro_bowl_players": 6,
+      "all_pro_players": 2,
       "player_list": [
         "Auden Tate",
         "Bobby Hart",
@@ -11277,6 +11989,8 @@
       "nfl_players": 10,
       "pro_bowls": 4,
       "all_pros": 1,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Andrew Billings",
         "Bryce Hager",
@@ -11296,6 +12010,8 @@
       "nfl_players": 10,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Adam Gotsis",
         "Chris Milton",
@@ -11315,6 +12031,8 @@
       "nfl_players": 30,
       "pro_bowls": 12,
       "all_pros": 5,
+      "pro_bowl_players": 4,
+      "all_pro_players": 2,
       "player_list": [
         "Amarlo Herrera",
         "Chris Conley",
@@ -11354,6 +12072,8 @@
       "nfl_players": 31,
       "pro_bowls": 4,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Aaron Wallace",
         "Alex Redmond",
@@ -11394,6 +12114,8 @@
       "nfl_players": 12,
       "pro_bowls": 2,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "B.J. Finney",
         "Byron Pringle",
@@ -11415,6 +12137,8 @@
       "nfl_players": 23,
       "pro_bowls": 20,
       "all_pros": 4,
+      "pro_bowl_players": 7,
+      "all_pro_players": 2,
       "player_list": [
         "Benardrick McKinney",
         "Blaine Clausell",
@@ -11447,6 +12171,8 @@
       "nfl_players": 17,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Cameron Marshall",
         "Christian Westerman",
@@ -11473,6 +12199,8 @@
       "nfl_players": 23,
       "pro_bowls": 13,
       "all_pros": 0,
+      "pro_bowl_players": 5,
+      "all_pro_players": 0,
       "player_list": [
         "A.J. Brown",
         "A.J. Moore",
@@ -11505,6 +12233,8 @@
       "nfl_players": 4,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Dane Cruikshank",
         "Reggie Gilbert",
@@ -11518,6 +12248,8 @@
       "nfl_players": 12,
       "pro_bowls": 2,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "Alexander Mattison",
         "Cedrick Wilson",
@@ -11539,6 +12271,8 @@
       "nfl_players": 20,
       "pro_bowls": 2,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Brian Allen",
         "Cody Barton",
@@ -11568,6 +12302,8 @@
       "nfl_players": 35,
       "pro_bowls": 0,
       "all_pros": 1,
+      "pro_bowl_players": 0,
+      "all_pro_players": 1,
       "player_list": [
         "Angelo Blackson",
         "Avery Young",
@@ -11612,6 +12348,8 @@
       "nfl_players": 25,
       "pro_bowls": 12,
       "all_pros": 5,
+      "pro_bowl_players": 4,
+      "all_pro_players": 2,
       "player_list": [
         "Alec Ingold",
         "Alex Erickson",
@@ -11646,6 +12384,8 @@
       "nfl_players": 40,
       "pro_bowls": 14,
       "all_pros": 2,
+      "pro_bowl_players": 7,
+      "all_pro_players": 2,
       "player_list": [
         "Anthony Johnson",
         "Arden Key",
@@ -11695,6 +12435,8 @@
       "nfl_players": 35,
       "pro_bowls": 10,
       "all_pros": 1,
+      "pro_bowl_players": 5,
+      "all_pro_players": 1,
       "player_list": [
         "Adam Humphries",
         "Austin Bryant",
@@ -11739,6 +12481,8 @@
       "nfl_players": 36,
       "pro_bowls": 6,
       "all_pros": 0,
+      "pro_bowl_players": 3,
+      "all_pro_players": 0,
       "player_list": [
         "Adoree' Jackson",
         "Antwaun Woods",
@@ -11784,6 +12528,8 @@
       "nfl_players": 19,
       "pro_bowls": 6,
       "all_pros": 3,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Aaron Epps",
         "B.J. Dubose",
@@ -11812,6 +12558,8 @@
       "nfl_players": 13,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Charles Harris",
         "Connor McGovern",
@@ -11834,6 +12582,8 @@
       "nfl_players": 11,
       "pro_bowls": 0,
       "all_pros": 1,
+      "pro_bowl_players": 0,
+      "all_pro_players": 1,
       "player_list": [
         "Blake Cashman",
         "Briean Boddy-Calhoun",
@@ -11856,6 +12606,8 @@
       "nfl_players": 55,
       "pro_bowls": 35,
       "all_pros": 11,
+      "pro_bowl_players": 13,
+      "all_pro_players": 8,
       "player_list": [
         "A'Shawn Robinson",
         "Anfernee Jennings",
@@ -11920,6 +12672,8 @@
       "nfl_players": 34,
       "pro_bowls": 8,
       "all_pros": 0,
+      "pro_bowl_players": 4,
+      "all_pro_players": 0,
       "player_list": [
         "A.J. Terrell",
         "Austin Bryant",
@@ -11963,6 +12717,8 @@
       "nfl_players": 24,
       "pro_bowls": 7,
       "all_pros": 4,
+      "pro_bowl_players": 3,
+      "all_pro_players": 2,
       "player_list": [
         "Alijah Holder",
         "Austin Hooper",
@@ -11996,6 +12752,8 @@
       "nfl_players": 20,
       "pro_bowls": 0,
       "all_pros": 2,
+      "pro_bowl_players": 0,
+      "all_pro_players": 1,
       "player_list": [
         "Aaron Burbridge",
         "Brian Allen",
@@ -12025,6 +12783,8 @@
       "nfl_players": 28,
       "pro_bowls": 21,
       "all_pros": 2,
+      "pro_bowl_players": 7,
+      "all_pro_players": 2,
       "player_list": [
         "Ahmad Thomas",
         "Amani Bledsoe",
@@ -12062,6 +12822,8 @@
       "nfl_players": 49,
       "pro_bowls": 30,
       "all_pros": 4,
+      "pro_bowl_players": 10,
+      "all_pro_players": 3,
       "player_list": [
         "Adolphus Washington",
         "Austin Mack",
@@ -12120,6 +12882,8 @@
       "nfl_players": 22,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Aaron Green",
         "Austin Schlottmann",
@@ -12151,6 +12915,8 @@
       "nfl_players": 18,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Adrian McDonald",
         "Brandon Wilson",
@@ -12178,6 +12944,8 @@
       "nfl_players": 26,
       "pro_bowls": 13,
       "all_pros": 0,
+      "pro_bowl_players": 5,
+      "all_pro_players": 0,
       "player_list": [
         "A.J. Brown",
         "A.J. Moore",
@@ -12213,6 +12981,8 @@
       "nfl_players": 31,
       "pro_bowls": 12,
       "all_pros": 4,
+      "pro_bowl_players": 4,
+      "all_pro_players": 2,
       "player_list": [
         "Alex Bars",
         "Alohi Gilman",
@@ -12253,6 +13023,8 @@
       "nfl_players": 43,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Amara Darboh",
         "Ben Braden",
@@ -12305,6 +13077,8 @@
       "nfl_players": 19,
       "pro_bowls": 21,
       "all_pros": 4,
+      "pro_bowl_players": 5,
+      "all_pro_players": 2,
       "player_list": [
         "Auden Tate",
         "Bobo Wilson",
@@ -12333,6 +13107,8 @@
       "nfl_players": 27,
       "pro_bowls": 14,
       "all_pros": 5,
+      "pro_bowl_players": 3,
+      "all_pro_players": 3,
       "player_list": [
         "A.J. Epenesa",
         "Amani Hooker",
@@ -12369,6 +13145,8 @@
       "nfl_players": 24,
       "pro_bowls": 6,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "A.J. Johnson",
         "Alex Ellis",
@@ -12402,6 +13180,8 @@
       "nfl_players": 17,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Anthony Walker",
         "Austin Carr",
@@ -12428,6 +13208,8 @@
       "nfl_players": 15,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Blake Jarwin",
         "Chris Carson",
@@ -12452,6 +13234,8 @@
       "nfl_players": 47,
       "pro_bowls": 17,
       "all_pros": 4,
+      "pro_bowl_players": 8,
+      "all_pro_players": 3,
       "player_list": [
         "Anthony Johnson",
         "Arden Key",
@@ -12508,6 +13292,8 @@
       "nfl_players": 3,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Chris Swain",
         "Keenan Reynolds",
@@ -12520,6 +13306,8 @@
       "nfl_players": 26,
       "pro_bowls": 4,
       "all_pros": 1,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Brian Allen",
         "Chase Hansen",
@@ -12555,6 +13343,8 @@
       "nfl_players": 13,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Andre Smith",
         "Charlie Heck",
@@ -12577,6 +13367,8 @@
       "nfl_players": 17,
       "pro_bowls": 4,
       "all_pros": 1,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Andrew Billings",
         "Blake Lynch",
@@ -12603,6 +13395,8 @@
       "nfl_players": 12,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Andre Dillard",
         "Daniel Ekuale",
@@ -12624,6 +13418,8 @@
       "nfl_players": 27,
       "pro_bowls": 16,
       "all_pros": 7,
+      "pro_bowl_players": 6,
+      "all_pro_players": 4,
       "player_list": [
         "Alec Ingold",
         "Alex Erickson",
@@ -12660,6 +13456,8 @@
       "nfl_players": 9,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Darrell Williams",
         "Deon Yelder",
@@ -12678,6 +13476,8 @@
       "nfl_players": 27,
       "pro_bowls": 7,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "Brandon Shippen",
         "Colin Thompson",
@@ -12716,6 +13516,8 @@
       "nfl_players": 29,
       "pro_bowls": 9,
       "all_pros": 0,
+      "pro_bowl_players": 5,
+      "all_pro_players": 0,
       "player_list": [
         "A.J. Terrell",
         "Amari Rodgers",
@@ -12754,6 +13556,8 @@
       "nfl_players": 57,
       "pro_bowls": 35,
       "all_pros": 12,
+      "pro_bowl_players": 15,
+      "all_pro_players": 8,
       "player_list": [
         "Alex Leatherwood",
         "Anfernee Jennings",
@@ -12820,6 +13624,8 @@
       "nfl_players": 28,
       "pro_bowls": 8,
       "all_pros": 3,
+      "pro_bowl_players": 4,
+      "all_pro_players": 2,
       "player_list": [
         "Adoree' Jackson",
         "Alijah Vera-Tucker",
@@ -12857,6 +13663,8 @@
       "nfl_players": 31,
       "pro_bowls": 11,
       "all_pros": 2,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Aaron Fuller",
         "Ben Burr-Kirven",
@@ -12897,6 +13705,8 @@
       "nfl_players": 29,
       "pro_bowls": 25,
       "all_pros": 4,
+      "pro_bowl_players": 8,
+      "all_pro_players": 3,
       "player_list": [
         "Ahmad Thomas",
         "Amani Bledsoe",
@@ -12935,6 +13745,8 @@
       "nfl_players": 47,
       "pro_bowls": 18,
       "all_pros": 1,
+      "pro_bowl_players": 6,
+      "all_pro_players": 1,
       "player_list": [
         "Austin Mack",
         "Baron Browning",
@@ -12991,6 +13803,8 @@
       "nfl_players": 27,
       "pro_bowls": 11,
       "all_pros": 4,
+      "pro_bowl_players": 5,
+      "all_pro_players": 2,
       "player_list": [
         "Amani Oruwariye",
         "Blake Gillikin",
@@ -13027,6 +13841,8 @@
       "nfl_players": 18,
       "pro_bowls": 13,
       "all_pros": 1,
+      "pro_bowl_players": 4,
+      "all_pro_players": 1,
       "player_list": [
         "Asante Samuel",
         "Auden Tate",
@@ -13054,6 +13870,8 @@
       "nfl_players": 23,
       "pro_bowls": 15,
       "all_pros": 7,
+      "pro_bowl_players": 5,
+      "all_pro_players": 4,
       "player_list": [
         "Alec Ingold",
         "Andrew Van Ginkel",
@@ -13086,6 +13904,8 @@
       "nfl_players": 18,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "A.J. Green",
         "Amen Ogbongbemiga",
@@ -13113,6 +13933,8 @@
       "nfl_players": 42,
       "pro_bowls": 3,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "Amara Darboh",
         "Ambry Thomas",
@@ -13164,6 +13986,8 @@
       "nfl_players": 34,
       "pro_bowls": 2,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "Alex Anzalone",
         "Antonio Callaway",
@@ -13207,6 +14031,8 @@
       "nfl_players": 21,
       "pro_bowls": 6,
       "all_pros": 4,
+      "pro_bowl_players": 3,
+      "all_pro_players": 2,
       "player_list": [
         "Alijah Holder",
         "Bobby Okereke",
@@ -13237,6 +14063,8 @@
       "nfl_players": 11,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Chukwuma Okorafor",
         "Corey Davis",
@@ -13257,6 +14085,8 @@
       "nfl_players": 44,
       "pro_bowls": 21,
       "all_pros": 6,
+      "pro_bowl_players": 8,
+      "all_pro_players": 4,
       "player_list": [
         "Arden Key",
         "Badara Traore",
@@ -13310,6 +14140,8 @@
       "nfl_players": 36,
       "pro_bowls": 1,
       "all_pros": 1,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Adrian Colbert",
         "Al-Quadin Muhammad",
@@ -13355,6 +14187,8 @@
       "nfl_players": 17,
       "pro_bowls": 5,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "Adonis Alexander",
         "Brandon Facyson",
@@ -13381,6 +14215,8 @@
       "nfl_players": 24,
       "pro_bowls": 4,
       "all_pros": 1,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Brian Allen",
         "Chase Hansen",
@@ -13414,6 +14250,8 @@
       "nfl_players": 9,
       "pro_bowls": 6,
       "all_pros": 3,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Colin Holba",
         "Geron Christian",
@@ -13432,6 +14270,8 @@
       "nfl_players": 13,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Ahkello Witherspoon",
         "Arlington Hambright",
@@ -13454,6 +14294,8 @@
       "nfl_players": 26,
       "pro_bowls": 1,
       "all_pros": 1,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Anthony Schwartz",
         "Arryn Siposs",
@@ -13489,6 +14331,8 @@
       "nfl_players": 13,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Adam Pankey",
         "Colton McKivitz",
@@ -13511,6 +14355,8 @@
       "nfl_players": 24,
       "pro_bowls": 8,
       "all_pros": 0,
+      "pro_bowl_players": 3,
+      "all_pro_players": 0,
       "player_list": [
         "A.J. Johnson",
         "Alvin Kamara",
@@ -13544,6 +14390,8 @@
       "nfl_players": 18,
       "pro_bowls": 4,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "Adam Bisnowaty",
         "Avonte Maddox",
@@ -13571,6 +14419,8 @@
       "nfl_players": 1,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Austin Cutting"
       ]
@@ -13583,6 +14433,8 @@
       "nfl_players": 53,
       "pro_bowls": 27,
       "all_pros": 9,
+      "pro_bowl_players": 12,
+      "all_pro_players": 6,
       "player_list": [
         "Alex Leatherwood",
         "Anfernee Jennings",
@@ -13645,6 +14497,8 @@
       "nfl_players": 45,
       "pro_bowls": 14,
       "all_pros": 3,
+      "pro_bowl_players": 6,
+      "all_pro_players": 1,
       "player_list": [
         "Andrew Thomas",
         "Azeez Ojulari",
@@ -13699,6 +14553,8 @@
       "nfl_players": 31,
       "pro_bowls": 25,
       "all_pros": 4,
+      "pro_bowl_players": 8,
+      "all_pro_players": 3,
       "player_list": [
         "Ahmad Thomas",
         "Amani Bledsoe",
@@ -13739,6 +14595,8 @@
       "nfl_players": 25,
       "pro_bowls": 6,
       "all_pros": 0,
+      "pro_bowl_players": 4,
+      "all_pro_players": 0,
       "player_list": [
         "A.J. Terrell",
         "Amari Rodgers",
@@ -13773,6 +14631,8 @@
       "nfl_players": 47,
       "pro_bowls": 14,
       "all_pros": 1,
+      "pro_bowl_players": 5,
+      "all_pro_players": 1,
       "player_list": [
         "Austin Mack",
         "Baron Browning",
@@ -13829,6 +14689,8 @@
       "nfl_players": 12,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Aaron Robinson",
         "Brandon Johnson",
@@ -13850,6 +14712,8 @@
       "nfl_players": 21,
       "pro_bowls": 9,
       "all_pros": 2,
+      "pro_bowl_players": 5,
+      "all_pro_players": 2,
       "player_list": [
         "Alec Ingold",
         "Andrew Van Ginkel",
@@ -13880,6 +14744,8 @@
       "nfl_players": 22,
       "pro_bowls": 1,
       "all_pros": 1,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Anthony Schwartz",
         "Arryn Siposs",
@@ -13911,6 +14777,8 @@
       "nfl_players": 30,
       "pro_bowls": 11,
       "all_pros": 5,
+      "pro_bowl_players": 5,
+      "all_pro_players": 3,
       "player_list": [
         "Amani Oruwariye",
         "Arnold Ebiketie",
@@ -13950,6 +14818,8 @@
       "nfl_players": 36,
       "pro_bowls": 15,
       "all_pros": 5,
+      "pro_bowl_players": 6,
+      "all_pro_players": 2,
       "player_list": [
         "Aaron Banks",
         "Adetokunbo Ogundeji",
@@ -13995,6 +14865,8 @@
       "nfl_players": 24,
       "pro_bowls": 7,
       "all_pros": 3,
+      "pro_bowl_players": 3,
+      "all_pro_players": 2,
       "player_list": [
         "Alijah Vera-Tucker",
         "Amon-Ra St. Brown",
@@ -14028,6 +14900,8 @@
       "nfl_players": 20,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Antonio Ortiz",
         "Ar'Darius Washington",
@@ -14057,6 +14931,8 @@
       "nfl_players": 25,
       "pro_bowls": 0,
       "all_pros": 1,
+      "pro_bowl_players": 0,
+      "all_pro_players": 1,
       "player_list": [
         "Braxton Berrios",
         "Brevin Jordan",
@@ -14091,6 +14967,8 @@
       "nfl_players": 17,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "A.J. Green",
         "Amen Ogbongbemiga",
@@ -14117,6 +14995,8 @@
       "nfl_players": 30,
       "pro_bowls": 3,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Aaron Fuller",
         "Andre Baccellia",
@@ -14156,6 +15036,8 @@
       "nfl_players": 21,
       "pro_bowls": 2,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Alijah Holder",
         "Bobby Okereke",
@@ -14186,6 +15068,8 @@
       "nfl_players": 41,
       "pro_bowls": 18,
       "all_pros": 6,
+      "pro_bowl_players": 7,
+      "all_pro_players": 3,
       "player_list": [
         "Arden Key",
         "Austin Deculus",
@@ -14236,6 +15120,8 @@
       "nfl_players": 13,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Anthony Miller",
         "Antonio Gibson",
@@ -14258,6 +15144,8 @@
       "nfl_players": 16,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "A.J. Arcuri",
         "Andrew Dowell",
@@ -14283,6 +15171,8 @@
       "nfl_players": 18,
       "pro_bowls": 8,
       "all_pros": 1,
+      "pro_bowl_players": 4,
+      "all_pro_players": 1,
       "player_list": [
         "Brandon Bryant",
         "Cameron Dantzler",
@@ -14310,6 +15200,8 @@
       "nfl_players": 12,
       "pro_bowls": 2,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Blake Hance",
         "Earnest Brown",
@@ -14331,6 +15223,8 @@
       "nfl_players": 9,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Allen Lazard",
         "Breece Hall",
@@ -14349,6 +15243,8 @@
       "nfl_players": 19,
       "pro_bowls": 2,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "A.J. Cole",
         "Alim McNeill",
@@ -14377,6 +15273,8 @@
       "nfl_players": 13,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Alexander Mattison",
         "Avery Williams",
@@ -14399,6 +15297,8 @@
       "nfl_players": 8,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Bruce Hector",
         "D'Ernest Johnson",
@@ -14418,6 +15318,8 @@
       "nfl_players": 28,
       "pro_bowls": 6,
       "all_pros": 0,
+      "pro_bowl_players": 4,
+      "all_pro_players": 0,
       "player_list": [
         "A.J. Terrell",
         "Albert Huggins",
@@ -14455,6 +15357,8 @@
       "nfl_players": 49,
       "pro_bowls": 27,
       "all_pros": 7,
+      "pro_bowl_players": 13,
+      "all_pro_players": 6,
       "player_list": [
         "Alex Leatherwood",
         "Anfernee Jennings",
@@ -14513,6 +15417,8 @@
       "nfl_players": 44,
       "pro_bowls": 12,
       "all_pros": 2,
+      "pro_bowl_players": 6,
+      "all_pro_players": 2,
       "player_list": [
         "Austin Mack",
         "Baron Browning",
@@ -14566,6 +15472,8 @@
       "nfl_players": 30,
       "pro_bowls": 18,
       "all_pros": 4,
+      "pro_bowl_players": 6,
+      "all_pro_players": 3,
       "player_list": [
         "Amani Bledsoe",
         "Anton Harrison",
@@ -14605,6 +15513,8 @@
       "nfl_players": 35,
       "pro_bowls": 7,
       "all_pros": 2,
+      "pro_bowl_players": 5,
+      "all_pro_players": 1,
       "player_list": [
         "Aaron Banks",
         "Adetokunbo Ogundeji",
@@ -14649,6 +15559,8 @@
       "nfl_players": 38,
       "pro_bowls": 17,
       "all_pros": 6,
+      "pro_bowl_players": 6,
+      "all_pro_players": 3,
       "player_list": [
         "Anthony Bradford",
         "Austin Deculus",
@@ -14696,6 +15608,8 @@
       "nfl_players": 47,
       "pro_bowls": 8,
       "all_pros": 0,
+      "pro_bowl_players": 5,
+      "all_pro_players": 0,
       "player_list": [
         "Andrew Thomas",
         "Azeez Ojulari",
@@ -14752,6 +15666,8 @@
       "nfl_players": 28,
       "pro_bowls": 2,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "Amari Burney",
         "C.J. Henderson",
@@ -14789,6 +15705,8 @@
       "nfl_players": 23,
       "pro_bowls": 2,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Benny Snell",
         "Brandin Echols",
@@ -14821,6 +15739,8 @@
       "nfl_players": 26,
       "pro_bowls": 1,
       "all_pros": 1,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Aaron Fuller",
         "Alex Cook",
@@ -14856,6 +15776,8 @@
       "nfl_players": 24,
       "pro_bowls": 4,
       "all_pros": 2,
+      "pro_bowl_players": 2,
+      "all_pro_players": 2,
       "player_list": [
         "Andrew Beck",
         "Bijan Robinson",
@@ -14889,6 +15811,8 @@
       "nfl_players": 32,
       "pro_bowls": 8,
       "all_pros": 4,
+      "pro_bowl_players": 4,
+      "all_pro_players": 2,
       "player_list": [
         "Amani Oruwariye",
         "Arnold Ebiketie",
@@ -14930,6 +15854,8 @@
       "nfl_players": 8,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Abraham Lucas",
         "Andre Dillard",
@@ -14947,6 +15873,8 @@
       "nfl_players": 9,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Colton McKivitz",
         "Dante Stills",
@@ -14965,6 +15893,8 @@
       "nfl_players": 7,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Aaron Robinson",
         "Brandon Johnson",
@@ -14981,6 +15911,8 @@
       "nfl_players": 40,
       "pro_bowls": 5,
       "all_pros": 0,
+      "pro_bowl_players": 3,
+      "all_pro_players": 0,
       "player_list": [
         "Aidan Hutchinson",
         "Ambry Thomas",
@@ -15030,6 +15962,8 @@
       "nfl_players": 20,
       "pro_bowls": 5,
       "all_pros": 0,
+      "pro_bowl_players": 3,
+      "all_pro_players": 0,
       "player_list": [
         "Antonio Johnson",
         "Bobby Brown",
@@ -15059,6 +15993,8 @@
       "nfl_players": 15,
       "pro_bowls": 7,
       "all_pros": 1,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Cameron Dantzler",
         "Cameron Young",
@@ -15083,6 +16019,8 @@
       "nfl_players": 9,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Alton Robinson",
         "Andre Cisco",
@@ -15101,6 +16039,8 @@
       "nfl_players": 13,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Anthony Johnson Jr.",
         "Breece Hall",
@@ -15123,6 +16063,8 @@
       "nfl_players": 5,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Andre Carter",
         "Brett Toth",
@@ -15137,6 +16079,8 @@
       "nfl_players": 19,
       "pro_bowls": 5,
       "all_pros": 0,
+      "pro_bowl_players": 4,
+      "all_pro_players": 0,
       "player_list": [
         "Britain Covey",
         "Chase Hansen",
@@ -15165,6 +16109,8 @@
       "nfl_players": 29,
       "pro_bowls": 12,
       "all_pros": 3,
+      "pro_bowl_players": 5,
+      "all_pro_players": 2,
       "player_list": [
         "A.J. Epenesa",
         "Alaric Jackson",
@@ -15203,6 +16149,8 @@
       "nfl_players": 23,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Anders Carlson",
         "Anthony Schwartz",
@@ -15235,6 +16183,8 @@
       "nfl_players": 14,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Alexander Mattison",
         "Avery Williams",
@@ -15260,6 +16210,8 @@
       "nfl_players": 40,
       "pro_bowls": 19,
       "all_pros": 6,
+      "pro_bowl_players": 8,
+      "all_pro_players": 3,
       "player_list": [
         "Ali Gaye",
         "Anthony Bradford",
@@ -15309,6 +16261,8 @@
       "nfl_players": 27,
       "pro_bowls": 2,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "A.J. Terrell",
         "Albert Huggins",
@@ -15345,6 +16299,8 @@
       "nfl_players": 41,
       "pro_bowls": 5,
       "all_pros": 1,
+      "pro_bowl_players": 4,
+      "all_pro_players": 1,
       "player_list": [
         "Austin Mack",
         "Baron Browning",
@@ -15395,6 +16351,8 @@
       "nfl_players": 49,
       "pro_bowls": 10,
       "all_pros": 1,
+      "pro_bowl_players": 6,
+      "all_pro_players": 1,
       "player_list": [
         "Amarius Mims",
         "Andrew Thomas",
@@ -15453,6 +16411,8 @@
       "nfl_players": 29,
       "pro_bowls": 7,
       "all_pros": 3,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Alex Forsyth",
         "Anthony Brown",
@@ -15491,6 +16451,8 @@
       "nfl_players": 27,
       "pro_bowls": 2,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "Amari Burney",
         "Brenton Cox Jr.",
@@ -15527,6 +16489,8 @@
       "nfl_players": 27,
       "pro_bowls": 16,
       "all_pros": 4,
+      "pro_bowl_players": 5,
+      "all_pro_players": 3,
       "player_list": [
         "Amani Bledsoe",
         "Anton Harrison",
@@ -15563,6 +16527,8 @@
       "nfl_players": 43,
       "pro_bowls": 20,
       "all_pros": 6,
+      "pro_bowl_players": 11,
+      "all_pro_players": 5,
       "player_list": [
         "Alex Leatherwood",
         "Anfernee Jennings",
@@ -15615,6 +16581,8 @@
       "nfl_players": 31,
       "pro_bowls": 6,
       "all_pros": 4,
+      "pro_bowl_players": 2,
+      "all_pro_players": 2,
       "player_list": [
         "Arnold Ebiketie",
         "Blake Gillikin",
@@ -15655,6 +16623,8 @@
       "nfl_players": 15,
       "pro_bowls": 2,
       "all_pros": 1,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Antoine Winfield",
         "Benjamin St-Juste",
@@ -15679,6 +16649,8 @@
       "nfl_players": 18,
       "pro_bowls": 8,
       "all_pros": 2,
+      "pro_bowl_players": 4,
+      "all_pro_players": 2,
       "player_list": [
         "Braelon Allen",
         "Cole Van Lanen",
@@ -15706,6 +16678,8 @@
       "nfl_players": 39,
       "pro_bowls": 7,
       "all_pros": 2,
+      "pro_bowl_players": 5,
+      "all_pro_players": 1,
       "player_list": [
         "Aaron Banks",
         "Adetokunbo Ogundeji",
@@ -15754,6 +16728,8 @@
       "nfl_players": 20,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Ben Sims",
         "Blake Lynch",
@@ -15783,6 +16759,8 @@
       "nfl_players": 21,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Anders Carlson",
         "Anthony Schwartz",
@@ -15813,6 +16791,8 @@
       "nfl_players": 27,
       "pro_bowls": 11,
       "all_pros": 4,
+      "pro_bowl_players": 5,
+      "all_pro_players": 3,
       "player_list": [
         "A.J. Epenesa",
         "Alaric Jackson",
@@ -15849,6 +16829,8 @@
       "nfl_players": 22,
       "pro_bowls": 4,
       "all_pros": 0,
+      "pro_bowl_players": 3,
+      "all_pro_players": 0,
       "player_list": [
         "Britain Covey",
         "Chase Hansen",
@@ -15880,6 +16862,8 @@
       "nfl_players": 10,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Antonio Gibson",
         "Bryce Huff",
@@ -15899,6 +16883,8 @@
       "nfl_players": 43,
       "pro_bowls": 4,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "AJ Barner",
         "Aidan Hutchinson",
@@ -15951,6 +16937,8 @@
       "nfl_players": 9,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Akeem Davis-Gaither",
         "D'Marco Jackson",
@@ -15969,6 +16957,8 @@
       "nfl_players": 1,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Malcolm Perry"
       ]
@@ -15979,6 +16969,8 @@
       "nfl_players": 18,
       "pro_bowls": 2,
       "all_pros": 2,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Ahmad Gardner",
         "Alec Pierce",
@@ -16006,6 +16998,8 @@
       "nfl_players": 3,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Bo Richter",
         "Jordan Jackson",
@@ -16018,6 +17012,8 @@
       "nfl_players": 13,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Avery Williams",
         "Brett Rypien",
@@ -16040,6 +17036,8 @@
       "nfl_players": 10,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Aaron Robinson",
         "Alex Ward",
@@ -16059,6 +17057,8 @@
       "nfl_players": 29,
       "pro_bowls": 4,
       "all_pros": 2,
+      "pro_bowl_players": 2,
+      "all_pro_players": 2,
       "player_list": [
         "Adonai Mitchell",
         "Bijan Robinson",
@@ -16099,6 +17099,8 @@
       "nfl_players": 39,
       "pro_bowls": 15,
       "all_pros": 4,
+      "pro_bowl_players": 7,
+      "all_pro_players": 3,
       "player_list": [
         "Alex Leatherwood",
         "Brian Branch",
@@ -16147,6 +17149,8 @@
       "nfl_players": 24,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Albert Huggins",
         "Amari Rodgers",
@@ -16180,6 +17184,8 @@
       "nfl_players": 41,
       "pro_bowls": 3,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Baron Browning",
         "C.J. Saunders",
@@ -16230,6 +17236,8 @@
       "nfl_players": 17,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Antonio Johnson",
         "Bobby Brown",
@@ -16256,6 +17264,8 @@
       "nfl_players": 23,
       "pro_bowls": 8,
       "all_pros": 3,
+      "pro_bowl_players": 3,
+      "all_pro_players": 2,
       "player_list": [
         "Anton Harrison",
         "Brayden Willis",
@@ -16288,6 +17298,8 @@
       "nfl_players": 52,
       "pro_bowls": 9,
       "all_pros": 1,
+      "pro_bowl_players": 5,
+      "all_pro_players": 1,
       "player_list": [
         "Amarius Mims",
         "Arian Smith",
@@ -16349,6 +17361,8 @@
       "nfl_players": 37,
       "pro_bowls": 7,
       "all_pros": 2,
+      "pro_bowl_players": 5,
+      "all_pro_players": 1,
       "player_list": [
         "Aaron Banks",
         "Adetokunbo Ogundeji",
@@ -16395,6 +17409,8 @@
       "nfl_players": 16,
       "pro_bowls": 2,
       "all_pros": 2,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Ahmad Gardner",
         "Alec Pierce",
@@ -16420,6 +17436,8 @@
       "nfl_players": 14,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Anthony Johnson Jr.",
         "Breece Hall",
@@ -16443,6 +17461,8 @@
       "nfl_players": 7,
       "pro_bowls": 2,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Adetomiwa Adebawore",
         "Cameron Mitchell",
@@ -16459,6 +17479,8 @@
       "nfl_players": 9,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Cam Jones",
         "Jamar Johnson",
@@ -16477,6 +17499,8 @@
       "nfl_players": 3,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Anthony Chesley",
         "Isaiah Likely",
@@ -16489,6 +17513,8 @@
       "nfl_players": 13,
       "pro_bowls": 2,
       "all_pros": 1,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Blake Freeland",
         "Brady Christensen",
@@ -16511,6 +17537,8 @@
       "nfl_players": 23,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Amari Burney",
         "Brenton Cox Jr.",
@@ -16543,6 +17571,8 @@
       "nfl_players": 8,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Dalen Cambre",
         "Elijah Mitchell",
@@ -16560,6 +17590,8 @@
       "nfl_players": 19,
       "pro_bowls": 7,
       "all_pros": 3,
+      "pro_bowl_players": 4,
+      "all_pro_players": 2,
       "player_list": [
         "Alijah Vera-Tucker",
         "Amon-Ra St. Brown",
@@ -16588,6 +17620,8 @@
       "nfl_players": 16,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Andy Borregales",
         "Brevin Jordan",
@@ -16613,6 +17647,8 @@
       "nfl_players": 20,
       "pro_bowls": 2,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Amari Gainer",
         "Antoine Green",
@@ -16642,6 +17678,8 @@
       "nfl_players": 23,
       "pro_bowls": 6,
       "all_pros": 2,
+      "pro_bowl_players": 4,
+      "all_pro_players": 2,
       "player_list": [
         "Alaric Jackson",
         "Chauncey Golston",
@@ -16674,6 +17712,8 @@
       "nfl_players": 9,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Alim McNeill",
         "Chandler Zavala",
@@ -16692,6 +17732,8 @@
       "nfl_players": 31,
       "pro_bowls": 2,
       "all_pros": 1,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Adonai Mitchell",
         "Alfred Collins",
@@ -16732,6 +17774,8 @@
       "nfl_players": 15,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "A.J. Green",
         "Amen Ogbongbemiga",
@@ -16756,6 +17800,8 @@
       "nfl_players": 19,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "A.J. Finley",
         "Ben Brown",
@@ -16784,6 +17830,8 @@
       "nfl_players": 22,
       "pro_bowls": 0,
       "all_pros": 1,
+      "pro_bowl_players": 0,
+      "all_pro_players": 1,
       "player_list": [
         "Aaron Fuller",
         "Alex Cook",
@@ -16815,6 +17863,8 @@
       "nfl_players": 1,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Elijah Cooks"
       ]
@@ -16827,6 +17877,8 @@
       "nfl_players": 44,
       "pro_bowls": 9,
       "all_pros": 1,
+      "pro_bowl_players": 5,
+      "all_pro_players": 1,
       "player_list": [
         "Amarius Mims",
         "Arian Smith",
@@ -16880,6 +17932,8 @@
       "nfl_players": 29,
       "pro_bowls": 6,
       "all_pros": 2,
+      "pro_bowl_players": 3,
+      "all_pro_players": 2,
       "player_list": [
         "Brian Branch",
         "Brian Robinson",
@@ -16918,6 +17972,8 @@
       "nfl_players": 34,
       "pro_bowls": 2,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "AJ Barner",
         "Aidan Hutchinson",
@@ -16961,6 +18017,8 @@
       "nfl_players": 13,
       "pro_bowls": 2,
       "all_pros": 2,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Ahmad Gardner",
         "Alec Pierce",
@@ -16983,6 +18041,8 @@
       "nfl_players": 8,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Ben Sims",
         "Jalen Pitre",
@@ -17000,6 +18060,8 @@
       "nfl_players": 30,
       "pro_bowls": 3,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "C.J. Stroud",
         "Cade Stover",
@@ -17039,6 +18101,8 @@
       "nfl_players": 10,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Christian Holmes",
         "Devin Harper",
@@ -17058,6 +18122,8 @@
       "nfl_players": 24,
       "pro_bowls": 5,
       "all_pros": 2,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Audric Estim\u00e9",
         "Benjamin Morrison",
@@ -17091,6 +18157,8 @@
       "nfl_players": 11,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "A.J. Arcuri",
         "Ameer Speed",
@@ -17111,6 +18179,8 @@
       "nfl_players": 18,
       "pro_bowls": 4,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Anton Harrison",
         "Brayden Willis",
@@ -17138,6 +18208,8 @@
       "nfl_players": 16,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "A.J. Finley",
         "Ben Brown",
@@ -17163,6 +18235,8 @@
       "nfl_players": 14,
       "pro_bowls": 2,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "Britain Covey",
         "Clark Phillips",
@@ -17186,6 +18260,8 @@
       "nfl_players": 14,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Ben Sauls",
         "Cal Adomitis",
@@ -17209,6 +18285,8 @@
       "nfl_players": 20,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Albert Huggins",
         "Andrew Booth",
@@ -17238,6 +18316,8 @@
       "nfl_players": 11,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "A.T. Perry",
         "Blake Whiteheart",
@@ -17258,6 +18338,8 @@
       "nfl_players": 14,
       "pro_bowls": 0,
       "all_pros": 1,
+      "pro_bowl_players": 0,
+      "all_pro_players": 1,
       "player_list": [
         "Andru Phillips",
         "Brenden Bates",
@@ -17281,6 +18363,8 @@
       "nfl_players": 15,
       "pro_bowls": 6,
       "all_pros": 2,
+      "pro_bowl_players": 4,
+      "all_pro_players": 2,
       "player_list": [
         "Connor Colby",
         "Cooper DeJean",
@@ -17305,6 +18389,8 @@
       "nfl_players": 8,
       "pro_bowls": 0,
       "all_pros": 1,
+      "pro_bowl_players": 0,
+      "all_pro_players": 1,
       "player_list": [
         "Art Green",
         "Clayton Tune",
@@ -17322,6 +18408,8 @@
       "nfl_players": 8,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Chandler Zavala",
         "Cory Durden",
@@ -17339,6 +18427,8 @@
       "nfl_players": 11,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Beaux Limmer",
         "Cam Little",
@@ -17359,6 +18449,8 @@
       "nfl_players": 7,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Cameron Thomas",
         "Daniel Bellinger",
@@ -17375,6 +18467,8 @@
       "nfl_players": 5,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Eric Banks",
         "Leroy Watson",
@@ -17389,6 +18483,8 @@
       "nfl_players": 6,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Dalen Cambre",
         "Eric Garror",
@@ -17404,6 +18500,8 @@
       "nfl_players": 3,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Bo Richter",
         "Jordan Jackson",
@@ -17416,6 +18514,8 @@
       "nfl_players": 21,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Alex Forsyth",
         "Anthony Brown",
@@ -17448,6 +18548,8 @@
       "nfl_players": 29,
       "pro_bowls": 5,
       "all_pros": 1,
+      "pro_bowl_players": 3,
+      "all_pro_players": 1,
       "player_list": [
         "Amarius Mims",
         "Arian Smith",
@@ -17486,6 +18588,8 @@
       "nfl_players": 11,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Brandon Coleman",
         "Dee Winters",
@@ -17506,6 +18610,8 @@
       "nfl_players": 28,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "AJ Barner",
         "Blake Corum",
@@ -17543,6 +18649,8 @@
       "nfl_players": 22,
       "pro_bowls": 3,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "C.J. Stroud",
         "Cade Stover",
@@ -17574,6 +18682,8 @@
       "nfl_players": 22,
       "pro_bowls": 6,
       "all_pros": 2,
+      "pro_bowl_players": 3,
+      "all_pro_players": 2,
       "player_list": [
         "Brian Branch",
         "Bryce Young",
@@ -17605,6 +18715,8 @@
       "nfl_players": 12,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Byron Young",
         "Cedric Tillman",
@@ -17626,6 +18738,8 @@
       "nfl_players": 18,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Albert Huggins",
         "Barrett Carter",
@@ -17653,6 +18767,8 @@
       "nfl_players": 12,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Clark Phillips",
         "Cole Bishop",
@@ -17674,6 +18790,8 @@
       "nfl_players": 17,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Abdul Carter",
         "Brenton Strange",
@@ -17700,6 +18818,8 @@
       "nfl_players": 11,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Alex Cook",
         "Carson Bruener",
@@ -17720,6 +18840,8 @@
       "nfl_players": 12,
       "pro_bowls": 2,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Braden Fiske",
         "Jaheim Bell",
@@ -17741,6 +18863,8 @@
       "nfl_players": 10,
       "pro_bowls": 2,
       "all_pros": 0,
+      "pro_bowl_players": 2,
+      "all_pro_players": 0,
       "player_list": [
         "Andrew Vorhees",
         "Caleb Williams",
@@ -17760,6 +18884,8 @@
       "nfl_players": 5,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Dorian Williams",
         "Jarius Monroe",
@@ -17774,6 +18900,8 @@
       "nfl_players": 11,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Ben Sinnott",
         "Cooper Beebe",
@@ -17794,6 +18922,8 @@
       "nfl_players": 15,
       "pro_bowls": 3,
       "all_pros": 0,
+      "pro_bowl_players": 3,
+      "all_pro_players": 0,
       "player_list": [
         "Ali Gaye",
         "Anthony Bradford",
@@ -17818,6 +18948,8 @@
       "nfl_players": 17,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Alex Forsyth",
         "Austin Faoliu",
@@ -17844,6 +18976,8 @@
       "nfl_players": 20,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Audric Estim\u00e9",
         "Benjamin Morrison",
@@ -17873,6 +19007,8 @@
       "nfl_players": 14,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Alec Anderson",
         "Atonio Mafi",
@@ -17896,6 +19032,8 @@
       "nfl_players": 5,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Dell Pettus",
         "Jake Andrews",
@@ -17910,6 +19048,8 @@
       "nfl_players": 6,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Cameron Young",
         "Decamerion Richardson",
@@ -17925,6 +19065,8 @@
       "nfl_players": 6,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Alex Austin",
         "Anthony Gould",
@@ -17940,6 +19082,8 @@
       "nfl_players": 12,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Jalen Brooks",
         "Jovaughn Gwyn",
@@ -17961,6 +19105,8 @@
       "nfl_players": 2,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Leroy Watson",
         "Rashad Wisdom"
@@ -17972,6 +19118,8 @@
       "nfl_players": 10,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Ben Sauls",
         "Calijah Kancey",
@@ -17991,6 +19139,8 @@
       "nfl_players": 5,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Evan Deckers",
         "Graham Barton",
@@ -18007,6 +19157,8 @@
       "nfl_players": 18,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "AJ Barner",
         "Blake Corum",
@@ -18034,6 +19186,8 @@
       "nfl_players": 9,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Carson Bruener",
         "Devin Culp",
@@ -18052,6 +19206,8 @@
       "nfl_players": 16,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Adonai Mitchell",
         "Alfred Collins",
@@ -18077,6 +19233,8 @@
       "nfl_players": 11,
       "pro_bowls": 0,
       "all_pros": 1,
+      "pro_bowl_players": 0,
+      "all_pro_players": 1,
       "player_list": [
         "Chris Braswell",
         "Dallas Turner",
@@ -18097,6 +19255,8 @@
       "nfl_players": 19,
       "pro_bowls": 3,
       "all_pros": 1,
+      "pro_bowl_players": 2,
+      "all_pro_players": 1,
       "player_list": [
         "Amarius Mims",
         "Arian Smith",
@@ -18125,6 +19285,8 @@
       "nfl_players": 16,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Cade Stover",
         "Cody Simon",
@@ -18150,6 +19312,8 @@
       "nfl_players": 10,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Bo Nix",
         "Bucky Irving",
@@ -18169,6 +19333,8 @@
       "nfl_players": 10,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Armand Membou",
         "Brady Cook",
@@ -18188,6 +19354,8 @@
       "nfl_players": 5,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Ben Brown",
         "Cedric Johnson",
@@ -18202,6 +19370,8 @@
       "nfl_players": 7,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "DaShaun White",
         "Danny Stutsman",
@@ -18218,6 +19388,8 @@
       "nfl_players": 5,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Jacob Cowing",
         "Jonah Savaiinaea",
@@ -18232,6 +19404,8 @@
       "nfl_players": 9,
       "pro_bowls": 3,
       "all_pros": 0,
+      "pro_bowl_players": 3,
+      "all_pro_players": 0,
       "player_list": [
         "Ali Gaye",
         "Brian Thomas Jr.",
@@ -18250,6 +19424,8 @@
       "nfl_players": 15,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Audric Estim\u00e9",
         "Benjamin Morrison",
@@ -18274,6 +19450,8 @@
       "nfl_players": 6,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Ashton Gillotte",
         "Bryan Hudson",
@@ -18289,6 +19467,8 @@
       "nfl_players": 8,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Abdul Carter",
         "Caedan Wallace",
@@ -18306,6 +19486,8 @@
       "nfl_players": 6,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Ben Sinnott",
         "Cooper Beebe",
@@ -18321,6 +19503,8 @@
       "nfl_players": 4,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Cory Durden",
         "Drake Thomas",
@@ -18334,6 +19518,8 @@
       "nfl_players": 7,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Dylan Sampson",
         "James Pearce Jr.",
@@ -18350,6 +19536,8 @@
       "nfl_players": 11,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Barrett Carter",
         "Jeremiah Trotter Jr.",
@@ -18370,6 +19558,8 @@
       "nfl_players": 1,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Elijah Chatman"
       ]
@@ -18380,6 +19570,8 @@
       "nfl_players": 4,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Austin Booker",
         "Cobee Bryant",
@@ -18393,6 +19585,8 @@
       "nfl_players": 3,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Korie Black",
         "Ollie Gordon II",
@@ -18405,6 +19599,8 @@
       "nfl_players": 6,
       "pro_bowls": 1,
       "all_pros": 1,
+      "pro_bowl_players": 1,
+      "all_pro_players": 1,
       "player_list": [
         "Connor Colby",
         "Cooper DeJean",
@@ -18420,6 +19616,8 @@
       "nfl_players": 6,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Austin Brinkman",
         "Beanie Bishop Jr.",
@@ -18435,6 +19633,8 @@
       "nfl_players": 0,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": []
     }
   ],
@@ -18445,6 +19645,8 @@
       "nfl_players": 12,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Cody Simon",
         "Denzel Burke",
@@ -18466,6 +19668,8 @@
       "nfl_players": 4,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Jeffrey Bassa",
         "Jordan James",
@@ -18479,6 +19683,8 @@
       "nfl_players": 5,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Benjamin Morrison",
         "Howard Cross III",
@@ -18493,6 +19699,8 @@
       "nfl_players": 7,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Alfred Collins",
         "Barryn Sorrell",
@@ -18509,6 +19717,8 @@
       "nfl_players": 4,
       "pro_bowls": 1,
       "all_pros": 0,
+      "pro_bowl_players": 1,
+      "all_pro_players": 0,
       "player_list": [
         "Abdul Carter",
         "Jaylen Reed",
@@ -18522,6 +19732,8 @@
       "nfl_players": 11,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Arian Smith",
         "Chaz Chambliss",
@@ -18542,6 +19754,8 @@
       "nfl_players": 2,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Dylan Sampson",
         "James Pearce Jr."
@@ -18553,6 +19767,8 @@
       "nfl_players": 0,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": []
     },
     {
@@ -18561,6 +19777,8 @@
       "nfl_players": 1,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Ashton Jeanty"
       ]
@@ -18571,6 +19789,8 @@
       "nfl_players": 1,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Tyler Batty"
       ]
@@ -18581,6 +19801,8 @@
       "nfl_players": 1,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Luke Haggard"
       ]
@@ -18591,6 +19813,8 @@
       "nfl_players": 0,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": []
     },
     {
@@ -18599,6 +19823,8 @@
       "nfl_players": 4,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Jihaad Campbell",
         "Malachi Moore",
@@ -18612,6 +19838,8 @@
       "nfl_players": 1,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Ben Brown"
       ]
@@ -18622,6 +19850,8 @@
       "nfl_players": 5,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Barrett Carter",
         "Payton Page",
@@ -18636,6 +19866,8 @@
       "nfl_players": 4,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Kai Kroeger",
         "Nick Emmanwori",
@@ -18649,6 +19881,8 @@
       "nfl_players": 3,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Andy Borregales",
         "Elijah Arroyo",
@@ -18661,6 +19895,8 @@
       "nfl_players": 2,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Darien Porter",
         "Jaylin Noel"
@@ -18672,6 +19908,8 @@
       "nfl_players": 1,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Pat Bryant"
       ]
@@ -18682,6 +19920,8 @@
       "nfl_players": 5,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Andre Szmyt",
         "Justin Barron",
@@ -18696,6 +19936,8 @@
       "nfl_players": 0,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": []
     },
     {
@@ -18704,6 +19946,8 @@
       "nfl_players": 2,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Ashton Gillotte",
         "Bryan Hudson"
@@ -18715,6 +19959,8 @@
       "nfl_players": 4,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Armand Membou",
         "Brady Cook",
@@ -18728,6 +19974,8 @@
       "nfl_players": 1,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Seth Henigan"
       ]
@@ -18738,6 +19986,8 @@
       "nfl_players": 2,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": [
         "Austin Ajiake",
         "Johnathan Baldwin"
@@ -18751,6 +20001,8 @@
       "nfl_players": 0,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": []
     },
     {
@@ -18759,6 +20011,8 @@
       "nfl_players": 0,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": []
     },
     {
@@ -18767,6 +20021,8 @@
       "nfl_players": 0,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": []
     },
     {
@@ -18775,6 +20031,8 @@
       "nfl_players": 0,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": []
     },
     {
@@ -18783,6 +20041,8 @@
       "nfl_players": 0,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": []
     },
     {
@@ -18791,6 +20051,8 @@
       "nfl_players": 0,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": []
     },
     {
@@ -18799,6 +20061,8 @@
       "nfl_players": 0,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": []
     },
     {
@@ -18807,6 +20071,8 @@
       "nfl_players": 0,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": []
     },
     {
@@ -18815,6 +20081,8 @@
       "nfl_players": 0,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": []
     },
     {
@@ -18823,6 +20091,8 @@
       "nfl_players": 0,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": []
     },
     {
@@ -18831,6 +20101,8 @@
       "nfl_players": 0,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": []
     },
     {
@@ -18839,6 +20111,8 @@
       "nfl_players": 0,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": []
     },
     {
@@ -18847,6 +20121,8 @@
       "nfl_players": 0,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": []
     },
     {
@@ -18855,6 +20131,8 @@
       "nfl_players": 0,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": []
     },
     {
@@ -18863,6 +20141,8 @@
       "nfl_players": 0,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": []
     },
     {
@@ -18871,6 +20151,8 @@
       "nfl_players": 0,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": []
     },
     {
@@ -18879,6 +20161,8 @@
       "nfl_players": 0,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": []
     },
     {
@@ -18887,6 +20171,8 @@
       "nfl_players": 0,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": []
     },
     {
@@ -18895,6 +20181,8 @@
       "nfl_players": 0,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": []
     },
     {
@@ -18903,6 +20191,8 @@
       "nfl_players": 0,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": []
     },
     {
@@ -18911,6 +20201,8 @@
       "nfl_players": 0,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": []
     },
     {
@@ -18919,6 +20211,8 @@
       "nfl_players": 0,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": []
     },
     {
@@ -18927,6 +20221,8 @@
       "nfl_players": 0,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": []
     },
     {
@@ -18935,6 +20231,8 @@
       "nfl_players": 0,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": []
     },
     {
@@ -18943,6 +20241,8 @@
       "nfl_players": 0,
       "pro_bowls": 0,
       "all_pros": 0,
+      "pro_bowl_players": 0,
+      "all_pro_players": 0,
       "player_list": []
     }
   ]
