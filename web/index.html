@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>CFB → NFL Talent Tracker</title>
+  <meta name="description" content="Which college football programs, in which years, produced the most future NFL players? A data-driven look at CFB Top-25 programs from 2000–2025." />
+  <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+  <meta property="og:title" content="CFB → NFL Talent Tracker" />
+  <meta property="og:description" content="Which college football programs, in which years, produced the most future NFL players?" />
+  <meta property="og:type" content="website" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="CFB → NFL Talent Tracker" />
+  <meta name="twitter:description" content="Which college football programs, in which years, produced the most future NFL players?" />
+  <link rel="stylesheet" href="styles.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="top">
+    <div class="brand">
+      <h1>CFB → NFL Talent Tracker</h1>
+      <p class="tagline">Which college programs, in which years, produced the most future NFL players?</p>
+    </div>
+    <nav class="nav">
+      <a href="#/leaderboard" data-nav="leaderboard">Leaderboard</a>
+      <a href="#/year" data-nav="year">Year</a>
+      <a href="#/program" data-nav="program">Program</a>
+      <a href="#/compare" data-nav="compare">Compare</a>
+    </nav>
+  </header>
+
+  <section class="filters" id="filters">
+    <div class="filter-group">
+      <label>Year range</label>
+      <div class="range-row">
+        <input type="range" id="yr-min" min="2000" max="2024" value="2000" />
+        <input type="range" id="yr-max" min="2000" max="2024" value="2024" />
+        <span class="range-label"><span id="yr-min-lbl">2000</span> – <span id="yr-max-lbl">2024</span></span>
+      </div>
+    </div>
+    <div class="filter-group">
+      <label for="rank-threshold">AP rank</label>
+      <select id="rank-threshold">
+        <option value="25">Top 25</option>
+        <option value="10">Top 10</option>
+        <option value="5">Top 5</option>
+      </select>
+    </div>
+    <div class="filter-group">
+      <label>Metric</label>
+      <div class="seg">
+        <button class="seg-btn active" data-metric="nfl_players">NFL players</button>
+        <button class="seg-btn" data-metric="pro_bowls">Pro Bowls</button>
+        <button class="seg-btn" data-metric="all_pros">All-Pros</button>
+      </div>
+    </div>
+  </section>
+
+  <main id="main">
+    <div id="loading" class="status">Loading data…</div>
+    <div id="view-leaderboard" class="view hidden"></div>
+    <div id="view-year" class="view hidden"></div>
+    <div id="view-program" class="view hidden"></div>
+    <div id="view-compare" class="view hidden"></div>
+  </main>
+
+  <footer class="caveats">
+    <h3>Known data limitations</h3>
+    <ol id="caveats-list"></ol>
+    <p class="updated">Data last updated: <span id="last-updated">—</span></p>
+  </footer>
+</body>
+</html>

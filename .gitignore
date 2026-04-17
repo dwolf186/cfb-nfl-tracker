@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Data cache (large downloaded CSVs)
+data/cache/
+data/logs/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Built outputs that users can regenerate
+# (keep data/output/cfb_nfl_talent.csv and web/data/*.json committed so the site works without running the pipeline)
