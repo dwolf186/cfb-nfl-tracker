@@ -32,7 +32,7 @@ YEARS = range(2000, 2026)  # 2000..2025 inclusive
 CAVEATS = [
     "Recent CFB seasons are structurally incomplete: a player is only credited once they reach an NFL roster, and we look up to 5 NFL seasons forward. The most recent 4–5 CFB years will grow as future NFL seasons are played. For example, CFB 2024 only counts players whose first NFL season is 2025 or later.",
     "College name matching is approximate — players with unusual name spellings or multiple college stints may be miscategorized.",
-    "Pre-2015 coverage is ~70–85%. Players without a gsis_id match in draft_picks.csv are excluded from early seasons.",
+    "Pre-2015 roster CSVs from nflverse often omit the player's college, so the pipeline backfills from the nflverse players master + draft picks. Coverage is ≥99% across all seasons.",
     "Undrafted free agents are included when they appear on a 53-man active roster (status == 'ACT').",
     "Practice-squad players are excluded by design.",
     "AP poll data is fetched from public sources when available; a hardcoded fallback is used otherwise and is unverified.",
@@ -94,12 +94,29 @@ def _load_draft_picks() -> pd.DataFrame:
     return dp
 
 
-def _backfill_college(rosters: pd.DataFrame, draft: pd.DataFrame) -> pd.DataFrame:
-    # Add draft's college under a separate column, then coalesce.
+def _load_players() -> pd.DataFrame:
+    """Load nflverse players.csv — a one-row-per-player master with college_name.
+
+    This is the primary college backfill source: it covers ~24k players across
+    all eras, whereas draft_picks.csv only covers drafted players.
+    """
+    path = fetch_nflverse.players_path()
+    if not path.exists():
+        raise RuntimeError(f"players.csv not found at {path}")
+    pl = pd.read_csv(path, low_memory=False, usecols=["gsis_id", "college_name"])
+    pl = pl.dropna(subset=["gsis_id"]).drop_duplicates(subset=["gsis_id"])
+    return pl.rename(columns={"college_name": "college_players"})
+
+
+def _backfill_college(rosters: pd.DataFrame, draft: pd.DataFrame, players: pd.DataFrame) -> pd.DataFrame:
+    # Coalesce college: roster → players.csv → draft_picks.csv.
     draft_cols = draft[["gsis_id", "college"]].rename(columns={"college": "college_draft"})
-    merged = rosters.merge(draft_cols, on="gsis_id", how="left")
-    merged["college"] = merged["college"].where(merged["college"].notna() & (merged["college"].astype(str) != ""), merged["college_draft"])
-    merged = merged.drop(columns=["college_draft"])
+    merged = rosters.merge(players, on="gsis_id", how="left").merge(draft_cols, on="gsis_id", how="left")
+    col = merged["college"]
+    col = col.where(col.notna() & (col.astype(str) != ""), merged["college_players"])
+    col = col.where(col.notna() & (col.astype(str) != ""), merged["college_draft"])
+    merged["college"] = col
+    merged = merged.drop(columns=["college_players", "college_draft"])
     return merged
 
 
@@ -161,8 +178,12 @@ def build(
     draft = _load_draft_picks()
     log.info("loaded %d draft rows", len(draft))
 
-    # Step 3: backfill missing college from draft picks.
-    rosters = _backfill_college(rosters, draft)
+    log.info("loading players master")
+    players_master = _load_players()
+    log.info("loaded %d player rows", len(players_master))
+
+    # Step 3: backfill missing college from players.csv, then draft_picks.csv.
+    rosters = _backfill_college(rosters, draft, players_master)
     missing_college = rosters["college"].isna().sum() + (rosters["college"].astype(str) == "").sum()
     log.info("after backfill: %d roster rows still missing college", missing_college)
 

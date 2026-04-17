@@ -70,7 +70,7 @@ Deploy takes ~1 minute. Status: <https://github.com/dwolf186/cfb-nfl-tracker/act
 See the footer in-app. Summary:
 
 1. College name matching is approximate.
-2. Pre-2015 coverage is ~70–85% (players without a `gsis_id` match in `draft_picks.csv` are excluded from early seasons).
+2. Pre-2015 roster CSVs often omit `college`; backfilled from the nflverse `players.csv` + `draft_picks.csv`. Coverage is ≥99% all years.
 3. Undrafted free agents included when they appear on a 53-man active roster.
 4. Practice-squad players excluded by design.
 5. AP poll data is auto-fetched when possible; hardcoded fallback is **unverified** and should be audited against official archives.

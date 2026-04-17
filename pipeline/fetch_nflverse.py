@@ -21,6 +21,10 @@ DRAFT_PICKS_URL = (
     "https://github.com/nflverse/nflverse-data/releases/download/"
     "draft_picks/draft_picks.csv"
 )
+PLAYERS_URL = (
+    "https://github.com/nflverse/nflverse-data/releases/download/"
+    "players/players.csv"
+)
 
 ROOT = Path(__file__).resolve().parents[1]
 CACHE_DIR = ROOT / "data" / "cache"
@@ -52,6 +56,10 @@ def draft_picks_path() -> Path:
     return CACHE_DIR / "draft_picks.csv"
 
 
+def players_path() -> Path:
+    return CACHE_DIR / "players.csv"
+
+
 def ensure_roster(year: int, refresh: bool = False) -> Path:
     path = roster_path(year)
     if path.exists() and not refresh:
@@ -68,7 +76,16 @@ def ensure_draft_picks(refresh: bool = False) -> Path:
     return path
 
 
+def ensure_players(refresh: bool = False) -> Path:
+    path = players_path()
+    if path.exists() and not refresh:
+        return path
+    _download(PLAYERS_URL, path)
+    return path
+
+
 def ensure_all(years: range | list[int], refresh: bool = False) -> None:
     for y in years:
         ensure_roster(y, refresh=refresh)
     ensure_draft_picks(refresh=refresh)
+    ensure_players(refresh=refresh)
