@@ -31,7 +31,7 @@ YEARS = range(2000, 2026)  # 2000..2025 inclusive
 
 CAVEATS = [
     "Recent CFB seasons are structurally incomplete: a player is only credited once they reach an NFL roster, and we look up to 5 NFL seasons forward. The most recent 4–5 CFB years will grow as future NFL seasons are played. For example, CFB 2024 only counts players whose first NFL season is 2025 or later.",
-    "College name matching is approximate — players with unusual name spellings or multiple college stints may be miscategorized.",
+    "College name matching is approximate — players with unusual name spellings may be miscategorized. Transfer and JUCO players are attributed to their primary 4-year school only (the first school in nflverse's `players.csv`); shared credit across multiple colleges is not supported.",
     "Pre-2015 roster CSVs from nflverse often omit the player's college, so the pipeline backfills from the nflverse players master + draft picks. Coverage is ≥99% across all seasons.",
     "Undrafted free agents are included when they appear on a 53-man active roster (status == 'ACT').",
     "Practice-squad players are excluded by design.",

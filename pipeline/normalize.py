@@ -46,6 +46,11 @@ def normalize_college(raw: str | None) -> str:
     s = html.unescape(str(raw)).strip()
     if not s or s.lower() == "nan":
         return "No College"
+    # nflverse players.csv uses semicolon-delimited multi-college strings
+    # for transfers/JUCO paths (e.g. "Miami; Lackawanna JC"). Convention:
+    # primary 4-year school first. Collapse to that primary school.
+    if ";" in s:
+        s = s.split(";", 1)[0].strip() or s
     m = _load_map()
     if s in m:
         return m[s]
